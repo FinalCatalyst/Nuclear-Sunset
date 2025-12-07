@@ -45,7 +45,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
   - `C:\Modding\Nuclear Sunset`
   - `C:\Modding\Wabbajack`
 
-	![Exclusions](https://github.com/user-attachments/assets/383f5259-3236-4acb-b00a-ce57e895716e)
+	![Exclusions](https://github.com/user-attachments/assets/69897eb3-f0ed-427c-beb6-548934c2e1a6)
 
 - Repeat this process for any third-party antivirus software.
 
@@ -409,7 +409,7 @@ The Ultra-Low Power State (ULPS) setting is enabled by default on AMD GPUs and h
 	![MSI Afterburner 1](https://github.com/user-attachments/assets/8b7fa6e8-be93-4807-8df1-c3eb400076a7)
 	![MSI Afterburner 2](https://github.com/user-attachments/assets/cb6278f0-94b4-4d9a-8ae6-6d43bb28b23d)
 
-- Restart your compute for the changes to take effect.
+- Restart your computer for the changes to take effect.
 
 <br></br>
 <br></br>
