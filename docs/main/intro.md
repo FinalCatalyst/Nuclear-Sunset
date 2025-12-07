@@ -18,7 +18,7 @@ sidebar_label: Intro
 - NS has been rigorously optimized, with custom enhancements not otherwise found in the modding community. Every mod asset has been evaluated and, when appropriate, reprocessed, downsized, compressed, mipmapped, and BSA-packed. Large new additions are thoroughly memory tested prior to inclusion to prevent degradation in performance as the list continues to evolve. Scripts are profiled and evaluated for potential performance implications as well.
 :::
 
-# <p align="center"> [Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
+# <p align="center"> `Modlist` </p>
 # <p align="center"> [Showcase](https://nuclearsunset.com/docs/gallery/userinterface/) </p>
 
 :::danger **Trigger Warning**
