@@ -42,7 +42,7 @@ sidebar_label: Mod Highlights
 - [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583) - Enables water bottle refills from any source.
 - [Modern Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Adds night and thermal vision to select gear.
 - [Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Lets players buy items directly from shelves.
-- [B42 True Learning](https://www.nexusmods.com/newvegas/mods/81872) - Introduces contextual leaning while aiming.
+- [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) - Introduces contextual leaning while aiming.
 
 <br></br>
 <br></br>
