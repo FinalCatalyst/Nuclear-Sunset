@@ -17,7 +17,7 @@ sidebar_label: Intro
 - Want a lighter hardcore experience? Give softercore a try.
 
 - Want an even harder experience? Give hardercore a try.
-
+<br></br>
 :::important What makes Nuclear Sunset unique?
 - Numerous content additions and expansions thoughtfully evaluated and integrated in both wastelands.
 - A custom SALVO process and custom optimization of assets offers unrivaled stability and performance in a list of this size.
