@@ -9,7 +9,8 @@ sidebar_label: Intro
 
 
 **Nuclear Sunset** (**NS**) is a complete overhaul of Fallout: New Vegas and Fallout 3, with over 1500 mods focused on modernizing, expanding, rebalancing, and enhancing all aspects of both Wastelands.
-Designed with survival in mind, this is the ultimate hardcore TTW experience with multiple modes of your choosing.
+<br></br>
+**Designed with survival in mind, this is the ultimate hardcore TTW experience** with multiple modes of your choosing.
 
 - Want just straightforward hardcore? We got you covered.
 
