@@ -8,7 +8,17 @@ sidebar_label: Intro
 # ![Banner NS Title](https://github.com/user-attachments/assets/9f6ccafa-b028-4b1e-840f-ff5ef99cfc87)
 
 
-**Nuclear Sunset** (NS) is a complete overhaul of Fallout: New Vegas and Fallout 3, with over 1400 mods focused on modernizing, expanding, rebalancing, and enhancing all aspects of both Wastelands. Designed for a hardcore gameplay experience, NS draws significant inspiration from acclaimed survival-horror titles like STALKER and Resident Evil. While remaining current with emerging content, every addition is carefully evaluated, customized, and seamlessly integrated with an emphasis on stability, performance, and balance. We consider NS to be the most visually impressive, innovative, comprehensive, well-balanced, and cohesive Tale of Two Wastelands experience available. Enjoy!
+**Nuclear Sunset** (**NS**) is a complete overhaul of Fallout: New Vegas and Fallout 3, with over 1500 mods focused on modernizing, expanding, rebalancing, and enhancing all aspects of both Wastelands.
+<br></br>
+
+Designed with survival in mind, this is the ultimate hardcore TTW experience with multiple modes of your choosing.
+<br></br>
+
+- Want just straightforward hardcore? We got you covered.
+
+- Want a lighter hardcore experience? Give softercore a try.
+
+- Want an even harder experience? Give hardercore a try.
 
 :::important What sets Nuclear Sunset apart?
 - NS is created and maintained by capable and well-known mod authors, which is reflected in trouble shooting, bug fixes, and NS-exclusive additions.
