@@ -9,10 +9,7 @@ sidebar_label: Intro
 
 
 **Nuclear Sunset** (**NS**) is a complete overhaul of Fallout: New Vegas and Fallout 3, with over 1500 mods focused on modernizing, expanding, rebalancing, and enhancing all aspects of both Wastelands.
-<br></br>
-
 Designed with survival in mind, this is the ultimate hardcore TTW experience with multiple modes of your choosing.
-<br></br>
 
 - Want just straightforward hardcore? We got you covered.
 
@@ -20,12 +17,12 @@ Designed with survival in mind, this is the ultimate hardcore TTW experience wit
 
 - Want an even harder experience? Give hardercore a try.
 
-:::important What sets Nuclear Sunset apart?
-- NS is created and maintained by capable and well-known mod authors, which is reflected in trouble shooting, bug fixes, and NS-exclusive additions.
-- NS is a community-driven project, enriched by contributions from some of the community’s most talented and knowledgeable figures, whose expertise and insights have been invaluable.
-- NS has access to cutting-edge mods, often available even prior to their official release. In fact, many unique mods are also created exclusively for NS.
-- NS includes ample custom edits to existing content to promote cohesion and enhance the player experience, such as adjustments to objects, NPCs, quests, scripts, meshes, textures, navmeshes, collision markers, and roombounds.
-- NS has been rigorously optimized, with custom enhancements not otherwise found in the modding community. Every mod asset has been evaluated and, when appropriate, reprocessed, downsized, compressed, mipmapped, and BSA-packed. Large new additions are thoroughly memory tested prior to inclusion to prevent degradation in performance as the list continues to evolve. Scripts are profiled and evaluated for potential performance implications as well.
+:::important What makes Nuclear Sunset unique?
+- Numerous content additions and expansions thoughtfully evaluated and integrated in both wastelands.
+- A custom SALVO process and custom optimization of assets offers unrivaled stability and performance in a list of this size.
+- A wealth of added, new, and custom sounds from weapons to soundtrack to voice lines.
+- Innumerable landscape and worldspace overhauls precisely integrated into both wastelands.
+- Dozens of new functions and mechanics to enhance gameplay and immersion.
 :::
 
 # <p align="center"> `Modlist` </p>
