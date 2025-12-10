@@ -64,15 +64,6 @@ const sidebars = {
     'gallery/anchorageinteriors',
     'gallery/pittinteriors',
   ],
-  resourcesSidebar: [
-   'resources/overview',
-   'resources/links',
-   'resources/lossless',
-   'resources/stars',
-   'resources/sweetloadorder',
-   'resources/sweetrecommendedmods',
-   'resources/troubleshooting',
-  ],
   changelogSidebar: [
     'changelog/1.0.0.0',
   ],
