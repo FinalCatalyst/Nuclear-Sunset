@@ -87,12 +87,6 @@ const config = {
             label: 'Setup',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'gallerySidebar',
-            position: 'right',
-            label: 'Showcase',
-          },
-          {
             type: "doc",
             docId: "main/faq",
             position: "right",
