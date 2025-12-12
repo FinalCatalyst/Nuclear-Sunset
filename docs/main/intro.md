@@ -26,8 +26,9 @@ sidebar_label: Intro
 - Dozens of new functions and mechanics to enhance gameplay and immersion.
 :::
 
-# <p align="center"> `Modlist` </p>
-# <p align="center"> [Showcase](https://nuclearsunset.com/docs/gallery/userinterface/) </p>
+<!--add back modlist and showcase links when they're ready-->
+# <p align="center"> `Modlist` </p> 
+# <p align="center"> `Showcase` </p>
 
 :::danger **Trigger Warning**
 Some content in Nuclear Sunset contains difficult and potentially distressing themes, including self-harm, self-destructive thoughts, suicidal ideation, sexual assault, bright flashing lights, and intense audio cues. Please proceed with caution.
