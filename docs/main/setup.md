@@ -363,6 +363,8 @@ Exceeding this value, even on powerful machines, can result in significantly inc
 - Open the settings using the `Setup` button.
 - Enable `Passive Waiting` and set `Framerate Limiter` to `Front Edge Sync`.
 - Click `OK`, then **MINIMIZE** (not close) RTSS back to the System Tray.
+![RTSS Setup](https://github.com/user-attachments/assets/eb43544d-2143-446d-a86e-777da81d27f0)
+
 
 <br></br>
 <br></br>
