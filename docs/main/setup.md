@@ -184,10 +184,10 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 - If prompted to `register to handle nxm links`, select `Yes`.
 
 :::tip Epic Game Users
-- Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/0992c94d-e5c2-49d3-9bcf-a1d43c03abf6).
+- Open `executable settings` ![executable settings](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
 - Select `Nuclear Sunset`, select the `Arguments` box, add `-EpicPortal`, then select `Apply`.
 
- 	![EPIC](https://github.com/user-attachments/assets/63688aa8-afdf-441d-8f0c-45761af92653)
+ 	![EPIC](https://github.com/user-attachments/assets/0992c94d-e5c2-49d3-9bcf-a1d43c03abf6)
 :::
 
 <br></br>
