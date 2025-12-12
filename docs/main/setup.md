@@ -184,7 +184,7 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 - If prompted to `register to handle nxm links`, select `Yes`.
 
 :::tip Epic Game Users
-- Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
+- Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/0992c94d-e5c2-49d3-9bcf-a1d43c03abf6).
 - Select `Nuclear Sunset`, select the `Arguments` box, add `-EpicPortal`, then select `Apply`.
 
  	![EPIC](https://github.com/user-attachments/assets/63688aa8-afdf-441d-8f0c-45761af92653)
@@ -198,7 +198,7 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 - In the top-right corner of MO2, open the drop-down menu labeled `Nuclear Sunset` and select `Configuring Game Settings`.
 - Click `Run`.
 
-	![Configuring Game Settings](https://github.com/user-attachments/assets/f36d012c-9100-46d4-aea2-e90ea876b4bb)
+	![Configuring Game Settings](https://github.com/user-attachments/assets/f54f07cc-83e9-4ed2-add4-bf64c383e634)
 
 - Navigate to `Options` and select the `Ultra` preset.
   
@@ -219,7 +219,7 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 - Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
 - Select `Configuring Game Settings`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
 
- 	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
+ 	![PCR](https://github.com/user-attachments/assets/7f7280e7-9a20-4ad7-a085-57021c3d6845)
 :::
 
 :::danger Configuring Game Settings Crashes
@@ -244,7 +244,7 @@ Refer to [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) f
 - Ensure the installation file path is `C:\Modding\Nuclear Sunset\MODS\[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)`. Installing outside of the `MODS` folder will prevent the game from launching.
 - Do not create a new TTW folder if you cannot find the existing one. You are likely in the wrong filepath.
 
-	![TTW Confirm](https://github.com/user-attachments/assets/406f597d-562b-407a-83f2-0d12873ae87c)
+	![TTW Confirm](https://github.com/user-attachments/assets/69486d67-af7e-4357-afdf-5c2f09204bfd)
 :::
 
 - Click `Install`.
@@ -382,7 +382,7 @@ Enabling Flip Model (DXVK with DXGI) reduces latency and supports HDR and VRR.
 
 - In `Nuclear Sunset > xNVIDIA Utilities`, select `[#] [INF] - FNV-NvidiaProfile.nip`, then click `Open`.
 
-  ![NVIDIA Profile Select](https://github.com/user-attachments/assets/9b638df0-8506-4ee1-9ae2-db72be80f99d)
+  ![NVIDIA Profile Select](https://github.com/user-attachments/assets/f516b1b3-d332-4b16-82d4-61360aace48e)
 
 - Click `OK` on the `Profile Successfully Imported!` prompt.
 
@@ -528,7 +528,7 @@ Expand - Optional Mod Descriptions
 - If launching results in the game launcher opening instead of Nuclear Sunset opening, repeat the [Configuring Game Settings](https://nuclearsunset.com/docs/main/setup#-configuring-game-settings-) steps.
 - After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Reference List](https://nuclearsunset.com/docs/main/reference).
 
-	![Launch](https://github.com/user-attachments/assets/19f3bba6-965f-4df7-9adc-571ff33b3893)
+	![Launch](https://github.com/user-attachments/assets/8f571b67-5936-4d46-bc62-eda9f5b3c053)
 
 :::danger Launch Abnormalities
 - Launch Crashes:
