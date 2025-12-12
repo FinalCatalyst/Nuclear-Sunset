@@ -341,20 +341,28 @@ Disabling DXVK Cache Storage prevents memory-related crashes by halting the crea
 FPS limiters make the game smoother by reducing rapid FPS fluctuations and preventing timescale desync bugs.
 :::
 
-- Navigate to `Nuclear Sunset > xRivaTuner Statistics Server > RivaTuner Statistics Server` and run `RTSS.exe`.
-- The RTSS logo will now be visible in the system tray and will auto-launch when starting Windows. If this is not visible in the systems tray, repeat the above step.
+- Download and install [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
+- Open the `System Tray` and click the `RTSS icon`.
 
-  ![RTSS Tray](https://github.com/user-attachments/assets/219b7842-12c1-4eb6-9fae-7badeaea22d3)
+![RTSS Icon](https://github.com/user-attachments/assets/f6542135-e257-4053-b6c7-b7c171024a7c)
 
-:::danger Exceeding a Framerate Limit of 59.95
-- Exceeding this value, even on powerful machines, can result in significantly increased stuttering. Exceeding 120 can result in timesync abnormalities.
-- RTSS is autoconfigured in Nuclear Sunset, though those who wish to increase this can do so by selecting `FalloutNV.exe` and adjusting the `Framerate limit`.
-	- The absolute maximum value is 119.95, and it is highly likely that increasing to this value will increase in-game stutter.
+- Press the green `Add` button and select `FalloutNV.exe` from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`. Click `OK`.
 
-![RTSS](https://github.com/user-attachments/assets/cb6a8927-3ad8-4f24-816c-fa4ea8f4213b)
-:::warning
-Force close RTSS from task manager before updating the list! This is known to cause issues with launching from MO2 if RTSS is open when updating the list.
+![RTSS FNV](https://github.com/user-attachments/assets/306eecdd-482b-4011-a81b-51f0a95a8b3c)
+
+- Select `FalloutNV.exe`.
+- Set `Application Detection Level` to `Low`.
+- Set `Framerate Limit` to `59.95`.
+
+![RTSS Frame](https://github.com/user-attachments/assets/ab24c6ef-f166-4518-b2da-802d89d91c0a)
+
+:::warning 
+Exceeding this value, even on powerful machines, can result in significantly increased stuttering. Exceeding 120 can result in timesync abnormalities.
 :::
+
+- Open the settings using the `Setup` button.
+- Enable `Passive Waiting` and set `Framerate Limiter` to `Front Edge Sync`.
+- Click `OK`, then **MINIMIZE** (not close) RTSS back to the System Tray.
 
 <br></br>
 <br></br>
