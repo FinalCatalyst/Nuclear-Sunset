@@ -67,6 +67,15 @@ const sidebars = {
   changelogSidebar: [
     'changelog/1.0.0.0',
   ],
+   resourcesSidebar: [
+   'resources/overview',
+   'resources/links',
+   'resources/lossless',
+   'resources/stars',
+   'resources/sweetloadorder',
+   'resources/sweetrecommendedmods',
+   'resources/troubleshooting',
+  ],
 };
 
 export default sidebars;
