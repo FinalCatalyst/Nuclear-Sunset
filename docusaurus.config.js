@@ -99,6 +99,12 @@ const config = {
             label: "Changelog",
           },
           {
+            type: "docSidebar",
+            sidebarId: "resourcesSidebar",
+            position: "right",
+            label: "Resources",
+          },
+          {
             type: "doc",
             docId: "main/donations",
             position: "right",
