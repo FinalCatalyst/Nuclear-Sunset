@@ -482,11 +482,7 @@ Expand - Optional Mod Descriptions
 </summary>
 
 - **Optional Mods - Gameplay:**
-	- **Auto-Equip Weapon if Unarmed** - Auto-equips weapons that are picked up while unarmed. May be desirable to disable for unarmed character builds.
- 	- **Helmet Overlay** - Adds helmet-specific overlays and associated animations to the screen.
   	- **Minigames - Wordle Hack** - Replaces the hacking minigame with Wordle.
-  	- **Minigames - Immersive Minigames** - A player skill-based alternative to the standard minigames.
-	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://nuclearsunset.com/docs/main/reference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
 	- **Quick Start & Associated Addons - Nuclear Sunset Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
 
 - **Optional Mods - Balance:**
@@ -524,8 +520,6 @@ Expand - Optional Mod Descriptions
 		- Caps have no weight
     
 - **Optional - Settings:**
-	- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
- 	- **Sound - Nuclear Sunset Main Menu Music** - Nuclear Sunset specific menu music.
 	- **Tutorial - Nuclear Sunset Tutorial** - A Nuclear Sunset specific tutorial.
 	- **UI - 16-10 Aspect Ratio Monitor Support** - Enables support for 16:10 monitors.
 	- **UI - 21-9 Aspect Ratio Monitor (Ultrawide) Support** - Enables support for ultrawide (21:9) monitors.
