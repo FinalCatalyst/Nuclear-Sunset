@@ -57,7 +57,6 @@ sidebar_label: Mod Highlights
 - [AGE (Anchorage Gameplay Expansion)](https://www.nexusmods.com/newvegas/mods/72031) - Revamps the Anchorage DLC with new gear and encounters.
 - [DMT (Dead Money Tweaks)](https://www.nexusmods.com/newvegas/mods/72139) - Converts Dead Money DLC into a survival horror experience.
 - [Low Level Point Lookout](https://www.nexusmods.com/newvegas/mods/82650) - A comprehensive balance overhaul of Point Lookout.
-- [Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Expands exploration and quests throughout Point Lookout.
 - [EDGE (Early Decisions and Gameplay Enhancement)](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls Tale of Two Wastelands with an emphasis on hardcore play.
 - [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412) - Overhauls interiors throughout the Capital Wasteland.
 - [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165) - Overhauls interiors throughout the Mojave Wasteland.
@@ -74,7 +73,7 @@ sidebar_label: Mod Highlights
 - [3DNPCs New Vegas](https://www.nexusmods.com/newvegas/mods/84274) - Expands the Mojove Wastelands with new quests, companions, and NPCs.
 - [Autumn Leaves](https://www.nexusmods.com/newvegas/mods/50146) - A DLC-sized mod set in a mysterious machine-inhabited library.
 - [Dry Wells - A Legion Expansion](https://www.nexusmods.com/newvegas/mods/88180) - Adds a dense new world space deep in Legion territory.
-- [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Features a survival experience around Lake Havasu City.
+- [Long 15 - NCR Expansion](https://www.nexusmods.com/newvegas/mods/94306) - Massive lore-friendly quest & land expansion with 30+ quests, 200+ fully voiced characters, new minor factions, player homes, and multiple main questlines. 
 - [Zion Trails](https://www.nexusmods.com/newvegas/mods/61939) - Adds a new world space connecting the Mojave to Zion.
 
 <br></br>
@@ -124,8 +123,9 @@ sidebar_label: Mod Highlights
 # ![Visuals](https://github.com/user-attachments/assets/21305b5b-c9a5-4342-bfea-b69aed1c2b82)
 
 - [Real Time Reflections](https://www.nexusmods.com/newvegas/mods/82343) - Adds dynamic reflection effects.
+- [Physically Based Texturing - A Modern Texture Pack](https://www.nexusmods.com/newvegas/mods/94227) - Modern large texture pack that uses PBR materials, made with NVR in mind.
 - [Special FX](https://www.nexusmods.com/newvegas/mods/87817) - Reimagines all game effects for explosions, lasers, blood, and more.
 - [Lumen](https://www.nexusmods.com/newvegas/mods/81060) - Adds ambient lighting to objects.
 - [Energy Visuals Plus](https://www.nexusmods.com/newvegas/mods/80000) - Enhances lighting for explosions and energy impacts.
 - [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437) - Overhauls weather for realistic variation across climates.
-- [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817) - Uses New Vegas Reloaded for a full-game aesthetic overhaul with day-night cycle lighting and customized presets for each worldspace.
+- [New Vegas Reloaded](https://dlpnd.github.io/nvr-wiki/) - Multiple presets including Uranium Haze, Hikikomori, Caffeine and Whiteout 2.0.
