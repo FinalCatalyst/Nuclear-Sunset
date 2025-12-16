@@ -130,7 +130,6 @@ Expand - Troubleshooting Steps
   - **Mojave Wasteland:**
     - **Autumn Leaves** - Visit Hypatia.
     - **Into the Deep** - Visit Shamble.
-    - **Lake Havasu** - Visit Searchlight Airport.
     - **Dry Wells** - Visit Blue Paradise Vacation Rentals.
     - **Zion Trails** - Explore the Northwestern most corner of the Mojave Wasteland.
     - **Race To The Bottom** - Visit Freeside Coop.
@@ -152,7 +151,6 @@ Expand - Troubleshooting Steps
     - **Race To The Bottom** - 10-15
     - **Honest Hearts** - 10-15
     - **Zion Trails** - 15-20
-    - **Lake Havasu** - 15-20
     - **Old World Blues** - 25-30
     - **Dead Money (with Dead Money Tweaks)** - 25-30
     - **Lonesome Road** - 40-45
