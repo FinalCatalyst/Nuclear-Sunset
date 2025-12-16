@@ -128,4 +128,4 @@ sidebar_label: Mod Highlights
 - [Lumen](https://www.nexusmods.com/newvegas/mods/81060) - Adds ambient lighting to objects.
 - [Energy Visuals Plus](https://www.nexusmods.com/newvegas/mods/80000) - Enhances lighting for explosions and energy impacts.
 - [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437) - Overhauls weather for realistic variation across climates.
-- [New Vegas Reloaded](https://dlpnd.github.io/nvr-wiki/) - Multiple presets including Uranium Haze, Hikikomori, Caffeine and Whiteout 2.0.
+- [New Vegas Reloaded](https://dlpnd.github.io/nvr-wiki/) - Multiple presets including [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817), [Hikikomori](https://www.nexusmods.com/newvegas/mods/93406), [Caffeine](https://www.nexusmods.com/newvegas/mods/92111) and [Whiteout 2.0](https://www.nexusmods.com/newvegas/mods/94629).
