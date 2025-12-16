@@ -1,33 +1,31 @@
 [
   {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Nuclear Sunset",
     "description": "Nuclear Sunset (NS) is a complete overhaul of Fallout: New Vegas and Fallout 3, with over 1500 mods focused on modernizing, expanding, rebalancing, and enhancing all aspects of both Wastelands.",
-    "author": "Dark, Sneeze, Dok, Lime, \u0026 Cat",
+    "author": "Dark, Sneeze, Dok, Lime, and Cat",
     "maintainers": [
       "github/DarkSolarLegend",
       "github/anonymoussynon"
     ],
     "game": "falloutnewvegas",
-    "official": false,
     "tags": [
       "Hardcore",
       "Rebalanced",
       "Overhaul",
       "Visuals",
       "Graphics",
-      "Official"
     ],
     "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
+    "image_contains_title": false,
     "force_down": true,
     "links": {
+      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/anonymoussynon/Nuclear-Sunset/main/static/img/nuclearsunsetbanner_webp.webp",
       "readme": "https://nuclearsunset.com/docs/main/intro",
       "download": "https://authored-files.wabbajack.org/Nuclear%20Sunset.wabbajack_136c8996-b866-4302-849a-717835a4b36e",
       "machineURL": "NuclearSunset",
-      "discordURL": "https://discord.gg/bddnKB26sT",
+      "discordURL": "https://discord.gg/bddnKB26sT"
       "websiteURL": "https://nuclearsunset.com/"
     },
     "download_metadata": {
