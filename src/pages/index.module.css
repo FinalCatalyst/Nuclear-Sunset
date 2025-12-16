@@ -8,7 +8,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: url("/static/img/nuclearsunsetbanner2.mp4");
+  background: url("/static/img/nuclearsunsetbanner2.gif");
 }
 
 @media screen and (max-width: 996px) {
