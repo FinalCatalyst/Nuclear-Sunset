@@ -431,16 +431,30 @@ The Ultra-Low Power State (ULPS) setting is enabled by default on AMD GPUs and h
 
   ![NS Profile](https://github.com/user-attachments/assets/18d341e3-7c9d-49eb-b770-ca2ed36ea3c9)
  
-  - **Ultra Quality Profile**:
-  	- Enables all mods and settings.
-  - **High Quality Profile**:
-  	- Disables and tweaks several performance-intensive New Vegas Reloaded settings (e.g., disables terrain parallax and wetworld shaders. Reduces the quality of shadow shaders).
-  - **Standard Quality Profile**:
-  	- Disables and tweaks several performance-intensive New Vegas Reloaded settings (e.g., disables shadow, terrain, godray, and wetworld shaders).
+  - **A - Uranium Haze NVR High**:
+  	- Enables all mods, settings and NVR with the highest preset of Uranium Haze.
+  - **B - Uranium Haze NVR Standard**:
+  	- Enables all mods, settings and NVR with the standard preset of Uranium Haze.
+  - **C - Uranium Haze NVR Performance**:
+  	- Enables all mods, settings and NVR with the performance preset of Uranium Haze.
+  - **D - Hikikomori NVR High**:
+  	- Enables all mods, settings and NVR with the highest preset of Hikikomori.
+  - **E - Hikikomori NVR Balanced**:
+  	- Enables all mods, settings and NVR with the balanced preset of Hikikomori.
+  - **F - Hikikomori NVR Performance**:
+  	- Enables all mods, settings and NVR with the performance preset of Hikikomori.
+  - **G - Caffeine NVR Standard**:
+  	- Enables all mods, settings and NVR with the standard preset of Caffeine.
+  - **H - Caffeine NVR Performance**:
+  	- Enables all mods, settings and NVR with the performance preset of Caffeine.
+  - **I - Whiteout 2.0 NVR Standard**:
+  	- Enables all mods, settings and NVR with the standard preset of Whiteout 2.0.
+  - **J - Whiteout 2.0 NVR Performance**:
+  	- Enables all mods, settings and NVR with the performance preset of Whiteout 2.0.
   - **Low Quality Profile**:
-  	- Disables New Vegas Reloaded, Uranium Haze, and Real Time Reflections.
+  	- Disables New Vegas Reloaded and Real Time Reflections.
   - **Very Low Quality Profile**:
-  	- Disables New Vegas Reloaded, Uranium Haze, and additional effect and lighting mods (e.g., disables Radiation Visuals, Real Time Reflections, Lumen, and Vending Machine Flicker Emits Light).
+  	- Disables New Vegas Reloaded additional effect and lighting mods (e.g., disables Radiation Visuals, Real Time Reflections, Lumen, and Vending Machine Flicker Emits Light).
   - **Unloaded Profile**:
   	- Reduces texture resolution dramatically to mimic the aesthetic of older 8-bit games. This profile **WILL NOT** provide additional performance benefits. 
   - **Debugging Profile**:
