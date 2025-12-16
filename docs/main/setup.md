@@ -108,26 +108,28 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 <br></br>
 
 ### <p align="center"> ![Installing Nuclear Sunset](https://github.com/user-attachments/assets/85079f81-db32-48ad-b319-c8a219fe85ca) </p>
+<!--change `here` to [here](direct nexus link] once it's uploaded-->
+- Download the Wabbajack file from `here` and save to the `C:\Modding\Wabbajack` folder
 - Launch the `Wabbajack application`.
 - Open the `settings` page and log into your Nexus account.
 
   ![WJLogIn](https://github.com/user-attachments/assets/365c2c63-67a1-48d0-be77-15a4b6dac42f)
 
-- Open the `Browse Lists` page, type `Nuclear Sunset` into the search bar, and click the `Nuclear Sunset modlist` image.
+- Open the `Browse Lists` page, click on `Install from disk` in the top right
 
-  ![WJBrowse](https://github.com/user-attachments/assets/28d6edf5-a694-4679-9cef-39f79d9e1fef)
+  ![WJBrowse](https://github.com/user-attachments/assets/1f234ed3-3654-4ace-b654-a1067cb3c6a1)
 
-- Click `Download & Install`.
+- Navigate to the `C:\Modding\Wabbajack` folder and open the `Nuclear Sunset.wabbajack` file
 
-  ![WJDownload](https://github.com/user-attachments/assets/c938ea10-d071-480b-ac4e-7b9152777707)
+  ![WJDownload](https://github.com/user-attachments/assets/4771cdaa-4a4a-4e67-a8d6-fd72405c92a1)
 
 - **COPY** (`Ctrl+C`) `C:\Modding\Nuclear Sunset`, changing the Root Directory if necessary, and **PASTE** (`Ctrl+V`) it into the `Installation Location`.
 - `Download Location` will **auto-populate** `C:\Modding\Nuclear Sunset\downloads`.
 - Once finished, click `Install`.
 
-  ![WJNSInstall](https://github.com/user-attachments/assets/ac393510-1047-449c-ae8e-5f2d04a90802)
+  ![WJNSInstall](https://github.com/user-attachments/assets/06d99a21-e2dd-4aaf-983d-af2982ec0663)
 
-- Begin the installation and accept the `Nexus Mods API request` when prompted.
+- Begin the installation and accept the `Nexus Mods API request` if prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display `Finished Installing Nuclear Sunset` at the top.
 - Close Wabbajack. **DO NOT** select the `Create Desktop Shortcut` option.
