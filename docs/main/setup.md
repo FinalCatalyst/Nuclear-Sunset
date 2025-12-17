@@ -241,7 +241,7 @@ Refer to [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) f
 - Copy (`Ctrl+C`) `C:\Modding\Nuclear Sunset\MODS\[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
 
 :::danger CRITICAL - Confirm the File Path
-- Ensure the installation file path is `C:\Modding\Nuclear Sunset\MODS\[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)`. Installing outside of the `MODS` folder will prevent the game from launching.
+- Ensure the installation file path is `C:\Modding\Nuclear Sunset\MODS\[NoDelete] [INF] [DB] - YUPTTW Update`. Installing outside of the `MODS` folder will prevent the game from launching.
 - Do not create a new TTW folder if you cannot find the existing one. You are likely in the wrong filepath.
 
 	![TTW Confirm](https://github.com/user-attachments/assets/69486d67-af7e-4357-afdf-5c2f09204bfd)
