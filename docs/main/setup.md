@@ -429,7 +429,7 @@ The Ultra-Low Power State (ULPS) setting is enabled by default on AMD GPUs and h
 
 ### <p align="center"> ![Selecting a Nuclear Sunset Profile](https://github.com/user-attachments/assets/16974159-4dfb-46c5-ae36-77c33b1703a2) </p>
 
-- In MO2, select `Nuclear Sunset` from the dropdown menu, then choose a profile.
+- In MO2, select `A - Uranium Haze NVR High` from the dropdown menu, then choose a profile.
 
   ![NS Profile](https://github.com/user-attachments/assets/5fc870e4-d533-4080-8920-23079a2b6487)
  
