@@ -108,19 +108,18 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 <br></br>
 
 ### <p align="center"> ![Installing Nuclear Sunset](https://github.com/user-attachments/assets/85079f81-db32-48ad-b319-c8a219fe85ca) </p>
-- Download the Wabbajack file from [here](https://drive.google.com/drive/folders/1W1Bi73317xJ8MlAzm2HzXIHLGAVSoRmL?usp=sharing) and save to the `C:\Modding\Wabbajack` folder
 - Launch the `Wabbajack application`.
 - Open the `settings` page and log into your Nexus account.
 
   ![WJLogIn](https://github.com/user-attachments/assets/365c2c63-67a1-48d0-be77-15a4b6dac42f)
 
-- Open the `Browse Lists` page, click on `Install from disk` in the top right
+- Open the `Browse Lists` page, type `Nuclear Sunset` into the search bar, and click the `Nuclear Sunset modlist` image.
 
-  ![WJBrowse](https://github.com/user-attachments/assets/1f234ed3-3654-4ace-b654-a1067cb3c6a1)
+  ![WJBrowse](https://github.com/user-attachments/assets/549a1a24-3346-4757-bad9-f889fe41ff6b)
 
-- Navigate to the `C:\Modding\Wabbajack` folder and open the `Nuclear Sunset.wabbajack` file
+- Click `Download & Install`.
 
-  ![WJDownload](https://github.com/user-attachments/assets/4771cdaa-4a4a-4e67-a8d6-fd72405c92a1)
+  ![WJDownload](https://github.com/user-attachments/assets/03a2825b-c428-4c72-81f9-0ae2866742dd)
 
 - **COPY** (`Ctrl+C`) `C:\Modding\Nuclear Sunset`, changing the Root Directory if necessary, and **PASTE** (`Ctrl+V`) it into the `Installation Location`.
 - `Download Location` will **auto-populate** `C:\Modding\Nuclear Sunset\downloads`.
