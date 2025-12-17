@@ -54,7 +54,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 
 ### <p align="center"> ![Downloading Wabbajack](https://github.com/user-attachments/assets/25c0d463-f69c-4347-b7ad-ffc7d6780787) </p>
 
-- Download the [Wabbajack Installation file](https://www.wabbajack.org/).
+- Download the [Wabbajack Installation file](https://drive.google.com/drive/folders/1W1Bi73317xJ8MlAzm2HzXIHLGAVSoRmL?usp=sharing).
 - Move the downloaded file to `C:\Modding\Wabbajack`.
 - Rename `Wabbajack.exe` to `Wabbajack Launcher.exe`
 - Run `Wabbajack Launcher.exe` to complete the installation.
