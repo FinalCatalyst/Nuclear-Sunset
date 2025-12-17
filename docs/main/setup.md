@@ -54,7 +54,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 
 ### <p align="center"> ![Downloading Wabbajack](https://github.com/user-attachments/assets/25c0d463-f69c-4347-b7ad-ffc7d6780787) </p>
 
-- Download the [Wabbajack Installation file](https://drive.google.com/drive/folders/1W1Bi73317xJ8MlAzm2HzXIHLGAVSoRmL?usp=sharing).
+- Download the [Wabbajack Installation file](https://www.wabbajack.org/).
 - Move the downloaded file to `C:\Modding\Wabbajack`.
 - Rename `Wabbajack.exe` to `Wabbajack Launcher.exe`
 - Run `Wabbajack Launcher.exe` to complete the installation.
@@ -108,8 +108,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 <br></br>
 
 ### <p align="center"> ![Installing Nuclear Sunset](https://github.com/user-attachments/assets/85079f81-db32-48ad-b319-c8a219fe85ca) </p>
-<!--change `here` to [here](direct nexus link] once it's uploaded-->
-- Download the Wabbajack file from `here` and save to the `C:\Modding\Wabbajack` folder
+- Download the Wabbajack file from [here](https://drive.google.com/drive/folders/1W1Bi73317xJ8MlAzm2HzXIHLGAVSoRmL?usp=sharing) and save to the `C:\Modding\Wabbajack` folder
 - Launch the `Wabbajack application`.
 - Open the `settings` page and log into your Nexus account.
 
