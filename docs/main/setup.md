@@ -503,15 +503,15 @@ Expand - Optional Mod Descriptions
 		- Sleeping will restore a much smaller amount of health. 
 		- Radiation resist effects are reduced by 50%.
 		- One follower can now be recruited at five permanent charisma, and two followers can be recruited at ten charisma.
-    - Nearly all Perk Level requirements have been increased.
+		- Nearly all Perk Level requirements have been increased.
 		- Pip-boy can no longer be used in combat.
 		- Fast travel now costs caps. This effect scales based on distance traveled and weight carried.
-    - Time dilation is halved when using quick select menus.
+		- Time dilation is halved when using quick select menus.
 		- Weapon sway is increased when not meeting weapon requirements.
 		- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
 		- Locks and Terminals have a random chance to be a higher lock level.
-    - The Cola Comrade perk has been disabled.
-    - Selected bonus to health, AP, or carry weight on level up has been reduced.
+		- The Cola Comrade perk has been disabled.
+		- Selected bonus to health, AP, or carry weight on level up has been reduced.
 		- Higher level enemies will appear earlier. 
  	- **Nuclear Sunset Softercore** - Various settings that dramatically reduce the difficulty of Nuclear Sunset. The mod includes the following changes:
 		- Hardcore needs accumulation rate is 33% of the base list.
