@@ -26,8 +26,8 @@ sidebar_label: Intro
 - Dozens of new functions and mechanics to enhance gameplay and immersion.
 :::
 
-<!--add back modlist and showcase links when they're ready-->
-# <p align="center"> `Modlist` </p> 
+<!--add back showcase link when they're ready-->
+# <p align="center"> [Modlist](https://loadorderlibrary.com/lists/nuclear-sunset) </p> 
 # <p align="center"> `Showcase` </p>
 
 :::danger **Trigger Warning**
