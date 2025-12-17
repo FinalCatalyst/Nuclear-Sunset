@@ -4,9 +4,8 @@
  */
 .heroBanner {
   padding: 0;
-  height: 75vmin;
+  height: 100vmin;
   text-align: center;
-  object-fit: cover;
   position: relative;
   overflow: hidden;
   background: url("/static/img/nuclearsunsetbanner2.gif");
