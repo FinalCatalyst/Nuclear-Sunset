@@ -7,7 +7,7 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/da716cef-bad0-48ad-b3dd-8095efc8cf88)
 
-  ![KBQD](https://github.com/user-attachments/assets/aa0a432e-4abc-4e29-acd8-484f452ebb85)
+  ![KBQD](https://github.com/user-attachments/assets/1b68240e-852b-463d-8878-ec6bc59d60d1)
 
 - **Activate:**
   - Press `E`.
@@ -68,11 +68,6 @@ sidebar_label: Mod Feature Reference List
 - **Hold Breath:**
   - Steady your aim by holding `Left Alt`.
 
-- **Immersive Minigame Tweaks (Optional):**
-  - Optional mod.
-  - Simplifies lockpicking and hacking with calculated success odds.
-  - Holster weapon, aim at lock/terminal, hold Grab (`G`).
-
 - **JIP Companion Command and Control:**
   - Overhauls companion controls.
   - Open CCC Menu: Hold `C`.
@@ -86,26 +81,6 @@ sidebar_label: Mod Feature Reference List
 - **Keybind Quick Display:**
   - View all custom keybinds in Nuclear Sunset.
   - Open Pause Menu, press `K`.
-
-- **Mod Delivery (Optional):**
-  - Optional Mod.
-  - Commission weapon mods for your equipped weapon from vendors.
-  - Mouse over vendor, press Grab (`G`), and follow instructions.
-  - Supported Vendors:
-    - Vendortron (Guns/Big Guns/Explosives)
-    - Gloria Van Graff (Energy Weapons)
-    - Torres (Energy/Big Guns)
-    - Mick (Melee/Unarmed)
-    - Boomers Munitions Manager (Explosives/Big Guns)
-    - 188 Arms Merchant (Explosives/Big Guns/Guns)
-    - Khan Armorer (Explosives/Guns)
-    - SINK (All)
-    - Commissary (All)
-    - Flak/Shrapnel (Guns/Explosives)
-    - Friday (The Pitt) (Guns/Melee/Unarmed/Explosives)
-    - Pronto (Guns/Explosives/Big Guns)
-    - Durga (BS DC) (Energy/Big Guns)
-    - Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
       
 - **Open Inventory:**
   - Press `I`.
