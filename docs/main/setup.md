@@ -76,7 +76,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 :::
 
 :::danger
-If clean installs are not appropriately created, the Nuclear Sunset installation process will fail. Simply uninstalling the game through Steam/GOG is insufficient.
+If clean installs are not appropriately created, the Nuclear Sunset installation process will fail. Simply uninstalling the game through Steam/GOG/Epic Games is insufficient.
 :::
 
 - Navigate to `C:\[STEAM, GOG, or EPIC FILEPATH]` and:
@@ -172,7 +172,7 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 <br></br>
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/a72c56ce-9374-457b-8056-c79e2088c404) </p>
-- Launch Fallout: New Vegas from `Steam/GOG`.
+- Launch Fallout: New Vegas from `Steam/GOG/Epic Games`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
 - Repeat this process for Fallout 3.
@@ -238,7 +238,7 @@ Refer to [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) f
 
 - Manual Download [Tale of Two Wastelands](https://mod.pub/ttw/133/files) and extract the archive.
 - Open the extracted `Tale of Two Wastelands Installer` folder. Right-click `TTW Install.exe` and select `Run as Administrator`.
-- Verify that the `Fallout 3` file path matches your Steam/GOG Fallout 3 installation path (this should already be auto-populated).
+- Verify that the `Fallout 3` file path matches your Steam/GOG/Epic Games Fallout 3 installation path (this should already be auto-populated).
 - Copy (`Ctrl+C`) `C:\Modding\Nuclear Sunset\[NoDelete] Stock New Vegas`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
 - Copy (`Ctrl+C`) `C:\Modding\Nuclear Sunset\MODS\[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
 
@@ -533,12 +533,13 @@ Expand - Optional Mod Descriptions
 
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/35668840-c4e6-43ad-97f6-a8a1f0ed1797) </p>
 
-- Launch the game via MO2. Launching from Steam, GOG, or the Nuclear Sunset Launcher will **NOT** launch the game with Nuclear Sunset enabled.
+- Launch the game via MO2 with the `Nuclear Sunset` option selected.
+
+	![Launch](https://github.com/user-attachments/assets/8f571b67-5936-4d46-bc62-eda9f5b3c053)
+
 - If prompted that INIs are read-only, select `Clear the Read Only Flag`.
 - If launching results in the game launcher opening instead of Nuclear Sunset opening, repeat the [Configuring Game Settings](https://nuclearsunset.com/docs/main/setup#-configuring-game-settings-) steps.
 - After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Reference List](https://nuclearsunset.com/docs/main/reference).
-
-	![Launch](https://github.com/user-attachments/assets/8f571b67-5936-4d46-bc62-eda9f5b3c053)
 
 :::danger Launch Abnormalities
 - Launch Crashes:
