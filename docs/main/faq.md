@@ -34,7 +34,7 @@ Expand - Troubleshooting Steps
 - Repeat the [Running 4GB Patcher](https://nuclearsunset.com/docs/main/setup#-running-4gb-patcher-) step.
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://nuclearsunset.com/docs/resources/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - If issues persist, delete the `Nuclear Sunset` folder and restart the installation process from the beginning.
-- For further help, share your crash log (found in `Nuclear Sunset > [NoDelete] Stock New Vegas > Crash Logs`) in the (TODO: Add link) [support-unmodified-list] Discord channel.
+- For further help, share your crash log (found in `Nuclear Sunset > [NoDelete] Stock New Vegas > Crash Logs`) in the [support-unmodified-list](https://discord.com/channels/1445447774035251323/1445462089970880674) Discord channel.
 </details>
 :::
 
@@ -80,12 +80,6 @@ Expand - Troubleshooting Steps
 - **BASS Init/XD3 Input Errors - I got a BASS Init/XD3 Input Error while installing TTW. How do I fix it?**
   - You are either using non-English versions of Fallout: New Vegas or Fallout 3, lack the associated DLCs, or have not completed a [clean installation](https://nuclearsunset.com/docs/main/setup#-creating-clean-installs-and-backups-) appropriately.
  
-- **Black screen with crash when launching?**
-  - This is caused by having RTSS open when updating the list. Force close RTSS from task manager, restart your PC, rerun RTSS from the Nuclear Sunset folder, and launch from MO2 as normal.
- 
-- **Black screen with no crash and you can hear the startup music?**
-  - This is caused by an unresolvable bug with NVR. Simply close the game and relaunch.
- 
 - **Bobbleheads/Skill Books - I used to know exactly where to find all of the bobbleheads/skill books, but they aren't where I expect them. Why?**
   - They have all been relocated. Gone are the days of free, predictable SPECIAL/Skill points. We enjoy the sense of discovery associated with their relocation, and hope you will too.
 
@@ -103,7 +97,7 @@ Expand - Troubleshooting Steps
   - The recruitment of companions is dependent on the player's permanent charisma (this does not take modifiers such as equipment or chems into account. The player can recruit one companion at 4 charisma, two companions at 7 charisma, and 3 companions at 10 charisma.
 
 - **Controller Support - Is there controller support?**
-  - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG users. Use Steam Input and follow the [Official Steam Controller Instructions](https://nuclearsunset.com/docs/main/controller).
+  - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG or Epic Games users. Use Steam Input and follow the [Official Steam Controller Instructions](https://nuclearsunset.com/docs/main/controller).
 
 - **Console Commands - Can I safely use console commands when playing?**
   - No. Almost all console commands can have unintended downstream consequences. Using console commands will void any support.
@@ -114,8 +108,8 @@ Expand - Troubleshooting Steps
   - Use healing items beyond full health.
   - Sleep beyond full health.
 
-- **Damage Treshold (DT) and Damage Resistance (DR) - What are DT and DR? How do they work?
-  - Damage Treshhold (DT) - A flat reduction in damage. This is applied AFTER DR. The maximum reduction in damage is 20% of the original damage value. Example: DT of 10 reduces a damage value of 40 to 30.
+- **Damage Threshold (DT) and Damage Resistance (DR) - What are DT and DR? How do they work?**
+  - Damage Threshhold (DT) - A flat reduction in damage. This is applied AFTER DR. The maximum reduction in damage is 20% of the original damage value. Example: DT of 10 reduces a damage value of 40 to 30.
   - Damage Resistance (DR) - A percent reduction in damage. This is applied BEFORE DT. The maximum reduction in damage is 85%. Example: DR of 30 reduces incoming damage by 30%.
 
 - **Dialogue Skill Indicator - Why was it removed?**
@@ -174,7 +168,7 @@ Expand - Troubleshooting Steps
   - Yes. The only circumstances in which fast travel is prohibited is when over-encumbered, while in combat, or while prohibited by quest content.
 
 - **First Time Playing - Is this list suitable for a Fallout newcomer?**  
-  - Yes. This list is ideal for anyone seeking a challenging experience. If Nuclear Sunset feels overwhelming, consider other TTW/FNV Wabbajack lists.
+  - Yes. This list is ideal for anyone seeking a challenging experience. If Nuclear Sunset feels overwhelming, consider enabling `Softercore` in the [Optional Mods](https://nuclearsunset.com/docs/main/setup#-optional-mods-0) section of MO2.
 
 - **First Time Playing - I want to experience the intro sequence.**  
   - To experience the intro sequence, disable the `Quick Start - Wasteland Starting Gear - Nuclear Sunset Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator.  
@@ -203,9 +197,6 @@ Expand - Troubleshooting Steps
 
 - **FPS Limiters - Do I need a separate FPS limiter?**  
   - Yes. RTSS utilizes CPU-based functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
-
-- **Freecam - How can I use freecam to look at myself?**
-  - Enter 3rd person, open the console with the ` key, type TFC, then press enter. You can move your camera around as needed to view your character. Type TFC into console again to exit freecam.
 
 - **Gambling - I used to be able to easily win gambling and earn free money, but I can't anymore. Why?**
   - Luck no longer affects gambling in NS to prevent abuse of the economy.
@@ -243,9 +234,6 @@ Expand - Troubleshooting Steps
   - Re-run the Nuclear Sunset Wabbajack installer, it will fix repair any incorrect filepaths.
   - Ensure the game is not being launched from the launcher.
 
-- **Leaning - Is there a way to toggle leaning?**
-  - Yes. Activate the `Keybinds - F Activates, Q & E Lean` mod in the `Optional - Settings` separator.
-
 - **Loading & Saving - In Skyrim I am told I can't quicksave or quickload. Is this also true in Nuclear Sunset?**
   - No. Quicksaves, autosaves, and full saves are also functionally similar, and none of these negatively impact the game. Similarly, reloading will not negatively impact your game.
 
@@ -277,7 +265,7 @@ Expand - Troubleshooting Steps
   - Doing so is considered modifying the list and will invalidate support.
 
 - **Modifying Nuclear Sunset - Can I modify the mods?**
-  - Modifying the list voids official support. Use the (TODO: Add link to channel) support-modified-list Discord channel for community assistance.
+  - Modifying the list voids official support. Use the [support-modified-list](https://discord.com/channels/1445447774035251323/1445462031221264538) Discord channel for community assistance.
 
 - **Mods - Why are there so many empty mods or mods that are completely overwritten in Nuclear Sunset?**
   - They have been merged or optimized in some fashion, though they are still included in an empty state to ensure the author receives appropriate downloads, donation points, and recognition for their creation.
@@ -322,7 +310,7 @@ Expand - Troubleshooting Steps
   - You died. Try a different method of activating the purifier.
 
 - **Radiation - ___ is too irradiated to complete! What can I do?**
-  - Use a combination of a Radiation Suits, Rad-x, Radaway, and Alcohol to mitigate the effects of radiation. However, if an area is too irradiated to even be possible, please report the location in the (TODO: Add link) [bug-reports] Discord channel.
+  - Use a combination of a Radiation Suits, Rad-x, Radaway, and Alcohol to mitigate the effects of radiation. However, if an area is too irradiated to even be possible, please report the location in the [bug-reports](https://discord.com/channels/1445447774035251323/1445462772442857574) Discord channel.
 
 - **Reflections - Why are landscape reflections visible in windows despite there being a building or object behind me?**  
   - This is intentional to prevent significant performance degradation.
