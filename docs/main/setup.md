@@ -113,9 +113,9 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 
   ![WJLogIn](https://github.com/user-attachments/assets/365c2c63-67a1-48d0-be77-15a4b6dac42f)
 
-- Open the `Browse Lists` page, type `Nuclear Sunset` into the search bar, and click the `Nuclear Sunset modlist` image.
+- Open the `Browse Lists` page, check the `Non-featured` box, and type `Nuclear Sunset` into the search bar, and click the `Nuclear Sunset modlist` image.
 
-  ![WJBrowse](https://github.com/user-attachments/assets/549a1a24-3346-4757-bad9-f889fe41ff6b)
+  ![WJBrowse](https://github.com/user-attachments/assets/c0da4d4a-fd17-46d4-a0da-6b03939da4ea)
 
 - Click `Download & Install`.
 
