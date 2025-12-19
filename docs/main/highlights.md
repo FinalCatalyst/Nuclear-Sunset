@@ -21,7 +21,6 @@ sidebar_label: Mod Highlights
 - [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) - Balances doctors, sleep, endurance, and radiation removal systems.
 - [SPARE (Sweet Part and Ammo Rebalance and Expansion)](https://www.nexusmods.com/newvegas/mods/83937) - Overhauls ammo crafting with cohesive recipes, new ammo types, and vendor-carried options.
 - [SWEEP (Sweet Weapon Enhancement and Expansion Package)](https://www.nexusmods.com/newvegas/mods/81043) - Balances weapon progression and cohesion.
-- [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPC detection, nerfing sniping tactics.
 - [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691) - Combines AI improvements for engaging combat.
 - [Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) - Tweaks weapon jamming mechanics with fixes and a jam-clearing function.
 - [B42 Recoil](https://www.nexusmods.com/newvegas/mods/90536) - Replaces and modernizes recoil.
@@ -37,7 +36,6 @@ sidebar_label: Mod Highlights
 # ![Functions](https://github.com/user-attachments/assets/dad5f059-943a-4575-ad91-6de8a559b2d1)
 
 - [Bad Touch](https://www.nexusmods.com/newvegas/mods/83782) - Adds environmental hazard consequences like fire and toxic sludge.
-- [BURN (Hardcore Fire Effects)](https://www.nexusmods.com/newvegas/mods/76060) - Makes NPCs panic when set ablaze.
 - [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Allows lock-breaking by attacking locks.
 - [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583) - Enables water bottle refills from any source.
 - [Modern Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Adds night and thermal vision to select gear.
@@ -128,4 +126,4 @@ sidebar_label: Mod Highlights
 - [Lumen](https://www.nexusmods.com/newvegas/mods/81060) - Adds ambient lighting to objects.
 - [Energy Visuals Plus](https://www.nexusmods.com/newvegas/mods/80000) - Enhances lighting for explosions and energy impacts.
 - [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437) - Overhauls weather for realistic variation across climates.
-- [New Vegas Reloaded](https://dlpnd.github.io/nvr-wiki/) - Multiple presets including [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817), [Hikikomori](https://www.nexusmods.com/newvegas/mods/93406), [Caffeine](https://www.nexusmods.com/newvegas/mods/92111) and [Whiteout 2.0](https://www.nexusmods.com/newvegas/mods/94629).
+- [New Vegas Reloaded](https://dlpnd.github.io/nvr-wiki/) - Multiple presets including [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817), [Hikikomori](https://www.nexusmods.com/newvegas/mods/93406) and [Caffeine](https://www.nexusmods.com/newvegas/mods/92111)
