@@ -66,6 +66,7 @@ const sidebars = {
   ],
   changelogSidebar: [
     'changelog/1.0.0.0',
+    'changelog/1.0.0.1'
   ],
    resourcesSidebar: [
    'resources/overview',
