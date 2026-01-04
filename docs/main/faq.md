@@ -33,6 +33,7 @@ Expand - Troubleshooting Steps
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://nuclearsunset.com/docs/main/setup#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Nuclear Sunset > Mods` folder.
 - Repeat the [Running 4GB Patcher](https://nuclearsunset.com/docs/main/setup#-running-4gb-patcher-) step.
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://nuclearsunset.com/docs/resources/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
+- Try disabling DXVK itself in the stock folder by renaming `d3d9.dll` to `d3d9.dll.backup`. DXVK doesn't always play nice with all graphics cards and drivers.
 - If issues persist, delete the `Nuclear Sunset` folder and restart the installation process from the beginning.
 - For further help, share your crash log (found in `Nuclear Sunset > [NoDelete] Stock New Vegas > Crash Logs`) in the [support-unmodified-list](https://discord.com/channels/1445447774035251323/1445462089970880674) Discord channel.
 </details>
@@ -198,8 +199,8 @@ Expand - Troubleshooting Steps
 - **FPS Limiters - Do I need a separate FPS limiter?**  
   - Yes. RTSS utilizes CPU-based functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
 
-- **Gambling - I used to be able to easily win gambling and earn free money, but I can't anymore. Why?**
-  - Luck no longer affects gambling in NS to prevent abuse of the economy.
+- **Gambling - I used to be able to easily win gambling and earn free money, but now it's harder. Why?**
+  - Luck plays a much smaller part of gambling that before thanks to [Gambling Luck Rebalance](https://www.nexusmods.com/newvegas/mods/92152). The effects luck has while gambling can be found on the mod page.
 
 - **Hardcore - Can I disable the hardcore mode?**  
   - No. Many mods in Nuclear Sunset rely on hardcore mode, and the list is designed around it.
