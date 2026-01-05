@@ -107,6 +107,15 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 <br></br>
 <br></br>
 
+### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/a72c56ce-9374-457b-8056-c79e2088c404) </p>
+- Launch Fallout: New Vegas from `Steam/GOG/Epic Games`.
+- Click `OK` when prompted with `Detecting Video Hardware`.
+- Close the launcher.
+- Repeat this process for Fallout 3.
+
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Installing Nuclear Sunset](https://github.com/user-attachments/assets/85079f81-db32-48ad-b319-c8a219fe85ca) </p>
 - Launch the `Wabbajack application`.
 - Open the `settings` page and log into your Nexus account.
@@ -169,15 +178,6 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 <br></br>
 <br></br>
 
-### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/a72c56ce-9374-457b-8056-c79e2088c404) </p>
-- Launch Fallout: New Vegas from `Steam/GOG/Epic Games`.
-- Click `OK` when prompted with `Detecting Video Hardware`.
-- Close the launcher.
-- Repeat this process for Fallout 3.
-
-<br></br>
-<br></br>
-
 ### <p align="center"> ![Launching Mod Organizer 2 (MO2)](https://github.com/user-attachments/assets/9a2d0b71-6761-48b9-b27c-76e5640447c2) </p>
 - Launch `ModOrganizer.exe` from `C:\Modding\Nuclear Sunset`.
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
@@ -194,6 +194,13 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 <br></br>
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/df73a3a0-b0c7-4a1d-b406-74f44ee30be3) </p>
+
+:::tip Steam Polish-Czech-Russian (PCR) Version
+- Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
+- Select `Configuring Game Settings`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
+
+ 	![PCR](https://github.com/user-attachments/assets/7f7280e7-9a20-4ad7-a085-57021c3d6845)
+:::
 
 - In the top-right corner of MO2, open the drop-down menu labeled `Nuclear Sunset` and select `Configuring Game Settings`.
 - Click `Run`.
@@ -215,12 +222,6 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 
 	![Game Settings](https://github.com/user-attachments/assets/7b3de77d-03f8-4f86-82b2-8411b5f98dd0)
 
-:::tip Steam Polish-Czech-Russian (PCR) Version
-- Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
-- Select `Configuring Game Settings`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
-
- 	![PCR](https://github.com/user-attachments/assets/7f7280e7-9a20-4ad7-a085-57021c3d6845)
-:::
 
 :::danger Configuring Game Settings Crashes
 Refer to [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) for common troubleshooting steps before requesting support.
