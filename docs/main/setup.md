@@ -488,7 +488,7 @@ Expand - Optional Mod Descriptions
 
 - **Optional Mods - Balance:**
   	- **Fast Travel Expenses** - Adds a distance-based cost when fast traveling. Highly recommended to keep enabled for appropriate balance.
-  	- **Life After Death** - Adds punishments to death and reloads to prevent abuse of the save reload cycle. Recommended to enable to help push a "live with the consequence of your actions" type of gameplay loop.
+  	- **Life After Death** - Adds punishments to death and reloads to prevent abuse of the save reload cycle. Highly recommended to keep enabled for appropriate balance.
   	- **Permadeath** - Enables permadeath mode, in which the player only has a finite number of lives.
   	  
 - **Optional Mods - Difficulty Presets:**
