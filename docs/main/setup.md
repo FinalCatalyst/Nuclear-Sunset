@@ -193,6 +193,43 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 <br></br>
 <br></br>
 
+### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/df73a3a0-b0c7-4a1d-b406-74f44ee30be3) </p>
+
+:::tip Steam Polish-Czech-Russian (PCR) Version
+- Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
+- Select `Configuring Game Settings`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
+
+ 	![PCR](https://github.com/user-attachments/assets/7f7280e7-9a20-4ad7-a085-57021c3d6845)
+:::
+
+- In the top-right corner of MO2, open the drop-down menu labeled `Nuclear Sunset` and select `Configuring Game Settings`.
+- Click `Run`.
+
+	![Configuring Game Settings](https://github.com/user-attachments/assets/f54f07cc-83e9-4ed2-add4-bf64c383e634)
+
+- Navigate to `Options` and select the `Ultra` preset.
+  
+:::tip Detail
+- Ultra provides textures at the intended resolution, though for those with performance concerns, lower `Detail` presets will uniformly downsize all of the textures in Nuclear Sunset, which may be beneficial for users with weaker computers.
+	- DO NOT use `Low` preset. This setting disables critical rendering functions.
+
+ 	![Launcher Presets](https://github.com/user-attachments/assets/ed9051aa-1a8e-4212-afcc-604be9ced244)
+:::
+ 
+- Uncheck the `Windowed` option if checked and select your monitor's resolution.
+	- If your monitor's resolution is unavailable, manually set it by opening MO2's INI editor, navigating to the `Falloutprefs.ini` tab, and adjusting `iSize W` and `iSize H` under the `Display` section to match your screen's width and height.
+- Click `OK` and close the launcher.
+
+	![Game Settings](https://github.com/user-attachments/assets/7b3de77d-03f8-4f86-82b2-8411b5f98dd0)
+
+
+:::danger Configuring Game Settings Crashes
+Refer to [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) for common troubleshooting steps before requesting support.
+:::
+
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/883d2bfc-80b7-4dcd-afbc-bc0611aff0b9) </p>
 
 :::danger Required Mod
@@ -237,43 +274,6 @@ The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[No
 
 :::danger
 Failure to run the 4GB Patch will result in a pink screen or crash when launching the game.
-:::
-
-<br></br>
-<br></br>
-
-### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/df73a3a0-b0c7-4a1d-b406-74f44ee30be3) </p>
-
-:::tip Steam Polish-Czech-Russian (PCR) Version
-- Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
-- Select `Configuring Game Settings`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
-
-  ![PCR](https://github.com/user-attachments/assets/7f7280e7-9a20-4ad7-a085-57021c3d6845)
-:::
-
-- In the top-right corner of MO2, open the drop-down menu labeled `Nuclear Sunset` and select `Configuring Game Settings`.
-- Click `Run`.
-
-  ![Configuring Game Settings](https://github.com/user-attachments/assets/f54f07cc-83e9-4ed2-add4-bf64c383e634)
-
-- Navigate to `Options` and select the `Ultra` preset.
-  
-:::tip Detail
-- Ultra provides textures at the intended resolution, though for those with performance concerns, lower `Detail` presets will uniformly downsize all of the textures in Nuclear Sunset, which may be beneficial for users with weaker computers.
-  - DO NOT use `Low` preset. This setting disables critical rendering functions.
-
-  ![Launcher Presets](https://github.com/user-attachments/assets/ed9051aa-1a8e-4212-afcc-604be9ced244)
-:::
- 
-- Uncheck the `Windowed` option if checked and select your monitor's resolution.
-  - If your monitor's resolution is unavailable, manually set it by opening MO2's INI editor, navigating to the `Falloutprefs.ini` tab, and adjusting `iSize W` and `iSize H` under the `Display` section to match your screen's width and height.
-- Click `OK` and close the launcher.
-
-  ![Game Settings](https://github.com/user-attachments/assets/7b3de77d-03f8-4f86-82b2-8411b5f98dd0)
-
-
-:::danger Configuring Game Settings Crashes
-Refer to [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) for common troubleshooting steps before requesting support.
 :::
 
 <br></br>
