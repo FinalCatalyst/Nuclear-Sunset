@@ -10,8 +10,8 @@ We only support Steam users with Steam Input. Unfortunately there are no viable 
 
 :::tip Controller Configs Zip File
 Per the instructions below, copy/paste the folders from this file into your Nuclear Sunset/mods folder. 
-**[NS Controller Instructions.zip](https://github.com/user-attachments/files/23972190/NS.Controller.Instructions.zip)**
+**[NS Controller Instructions.zip](https://github.com/user-attachments/files/24463951/NS.Controller.Instructions.-.January.2026.zip)**
 :::danger **REINSTALL AFTER EVERY UPDATE**
 :::
 
-<iframe src="https://drive.google.com/file/d/1JE8omZb5MNBglOPdKV4bc_lk1biKBRMt/preview" width="974" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1Z835e9bwEwnb8QcGtSKtlfTfcwvwxwmM/preview" width="974" height="900"></iframe>
