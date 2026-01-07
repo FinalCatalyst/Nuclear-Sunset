@@ -10,7 +10,7 @@ sidebar_label: Intro
 
 # Modern visuals for New Vegas and TTW.
 
-If you've never been around here before, Nuclear Sunset is a hardcore TTW wabbajack modlist that transforms both games into a completely unique experience. If you want more information on the list itself you can visit the [Intro](https://nuclearsunset.com/docs/main/intro) page.
+If you've never been around here before, Nuclear Sunset is a hardcore TTW wabbajack modlist that transforms both games into a completely unique experience. If you want more information on the list itself you can visit the [intro](https://nuclearsunset.com/docs/main/intro) page and have a look around.
 
 Essentially we took our custom process from Nuclear Sunset, stripped out all the gameplay stuff, and left all the visuals that the list is known for available to be used without the requirement of the rest of the list.
 
