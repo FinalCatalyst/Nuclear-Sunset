@@ -279,7 +279,7 @@ Failure to run the 4GB Patch will result in a pink screen or crash when launchin
 <br></br>
 <br></br>
 
-### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/56a10969-00a9-41a6-a8ca-2b488423a1e7)</p>
+<!-- ### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/56a10969-00a9-41a6-a8ca-2b488423a1e7)</p>
 <details><summary>
 Expand - Linux Installation Instructions
 </summary>
@@ -294,7 +294,7 @@ Linux inherently requires above average operating system knowledge and troublesh
 </details>
 
 <br></br>
-<br></br>
+<br></br> -->
 
 ### <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/1231e641-2ddb-4a40-b814-7b3d470559fe) </p>
 :::tip Why?
