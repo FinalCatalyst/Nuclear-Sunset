@@ -171,9 +171,8 @@ Expand - Troubleshooting Steps
 - **First Time Playing - Is this list suitable for a Fallout newcomer?**  
   - Yes. This list is ideal for anyone seeking a challenging experience. If Nuclear Sunset feels overwhelming, consider enabling `Softercore` in the [Optional Mods](https://nuclearsunset.com/docs/main/setup#-optional-mods-0) section of MO2.
 
-- **First Time Playing - I want to experience the intro sequence.**  
-  - To experience the intro sequence, disable the `Quick Start - Wasteland Starting Gear - Nuclear Sunset Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator.  
-  - Please note the intro sequence is known to be associated with bugs, and we will not provide support for these bugs.
+- **First Time Playing/FO3 Vault Intro - I want to experience the intro/Fallout 3 Vault 101 sequence.**  
+  - To experience the intro sequence, disable the `[#] [INF] - Quick Start & Associated Addons - Nuclear Sunset Merge` mod in the Mod Organizer 2 `Optional - Gameplay` separator.  
 
 - **First Time Playing - Do you have any tips on how to be successful?**  
   - Avoid reducing any SPECIAL stat too low during character creation. No stat is useless in Nuclear Sunset, despite this being contrary to standard Fallout: New Vegas.
