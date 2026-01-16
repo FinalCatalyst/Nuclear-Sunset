@@ -14,7 +14,7 @@ sidebar_label: Credits & Thanks
 - Everyone who helped and assisted with Uranium Fever during its development.
 - **All** of the incredible mod authors whose work made NS possible.
 - [Kamchatka](https://next.nexusmods.com/profile/kamchatkaa/mods) as the original creator of Uranium Fever.
-- The [Wabbajack](https://www.wabbajack.org/) team, particularly [JanuarySnow](https://github.com/JanuarySnow), [TDarkShadow](https://github.com/TDarkShadow), and [Trawzified](https://github.com/tr4wzified), for extensive troubleshooting support and fixing various Wabbajack engine bugs discovered during NS’s development.
+- The [Wabbajack](https://www.wabbajack.org/) team for Wabbajack itself and guidance & support during initial NS development.
 - [Bethesda](https://bethesda.net) and [Obsidian](https://www.obsidian.net) for creating the games and assets used in NS and for supporting the ongoing work of the modding community.
 - [Tale of Two Wastelands](https://mod.pub/ttw/133-tale-of-two-wastelands) and the TTW team for permission to use many of the mod’s unique assets.
 - [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter) for extensive balancing support, numerous patches, and a general willingness to help in any way possible.
