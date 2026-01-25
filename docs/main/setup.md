@@ -199,6 +199,8 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 - Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
 - Select `Configuring Game Settings`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
 
+- If you receive `Application Load Error P:0000065432`, try `22380` instead of `22490`
+
  	![PCR](https://github.com/user-attachments/assets/7f7280e7-9a20-4ad7-a085-57021c3d6845)
 :::
 
