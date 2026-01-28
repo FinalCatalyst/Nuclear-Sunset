@@ -515,6 +515,8 @@ Expand - Optional Mod Descriptions
 		- The Cola Comrade perk has been disabled.
 		- Selected bonus to health, AP, or carry weight on level up has been reduced.
 		- Higher level enemies will appear earlier. 
+    - Difficulty starts at nnormal but can be changed to Hard or Very Hard
+    - Addictions last 4 days
  	- **Nuclear Sunset Softercore** - Various settings that dramatically reduce the difficulty of Nuclear Sunset. The mod includes the following changes:
 		- Hardcore needs accumulation rate is 33% of the base list.
 		- Weapon requirement penalties are reduced.
@@ -524,6 +526,7 @@ Expand - Optional Mod Descriptions
 		- Increases the material used by the Ammo Press and reduces the cooldown.
 		- Difficulty starts at normal but can be changed to Easy or Very Easy.
 		- Caps have no weight
+    - Barter settings are softened
     
 - **Optional - Settings:**
 	- **Tutorial - Nuclear Sunset Tutorial** - A Nuclear Sunset specific tutorial.
