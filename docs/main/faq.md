@@ -57,14 +57,14 @@ Expand - Troubleshooting Steps
     - **CDN** - Mod hosted on the Wabbajack server.
     - **BOS** - Mod utilized base object swapper.
     - **SOFT AF** - These mods were created by OrgasmicSneeze, specifically for Nuclear Sunset.
-    - **HQ, SQ, LQ, VLQ, UL, DB** - Mod enabled or disabled in High, Standard, Low, Very Low Quality, Unloaded, or Debug profiles.
+    - **LQ, VLQ, DB** - Mod enabled or disabled in Low, Very Low Quality, or Debug profiles.
 
 - **Addiction - How does addiction work in Nuclear Sunset?**
   - Addictions can be recovered from over time, after expereincing three days of withdrawals. Taking the associated chem resets the three day timer.
   - Paying a doctor to addres your addiction or using a fixer will provide a period of immunity against the negative effects of the addiction. The addiction will still naturally recover at the same rate.
 
 - **Adding Mods - How do I add ___ mod?**
-  - The Nuclear Sunset support team will not provide any advice or instructions on how to add mods to Nuclear Sunset. You may do so at your own risk, though you void any support by doing so.
+  - The Nuclear Sunset support team are not obligated to provide any advice or instructions on how to add mods to Nuclear Sunset. You may do so at your own risk, though you void official support by doing so.
 
 - **Ammo Types - There are several different types of ammo included in each caliber. What do they each do?**
   - **AP** - Expensive and uncommon. Reduces weapon damage, but significantly reduces enemy DT (Damage Threshold). Very effective against large, powerful, armored enemies.
@@ -101,7 +101,7 @@ Expand - Troubleshooting Steps
   - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG or Epic Games users. Use Steam Input and follow the [Official Steam Controller Instructions](https://nuclearsunset.com/docs/main/controller).
 
 - **Console Commands - Can I safely use console commands when playing?**
-  - No. Almost all console commands can have unintended downstream consequences. Using console commands will void any support.
+  - No. Almost all console commands can have unintended downstream consequences. Using console commands will void official support.
 
 - **Crippled - How do I heal crippled limbs?**
   - Visit a doctor.
