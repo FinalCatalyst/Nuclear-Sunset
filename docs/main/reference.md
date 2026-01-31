@@ -137,7 +137,7 @@ sidebar_label: Mod Feature Reference List
   - Hold `Left Shift`.
 
 - **Swap Ammo Type:**
-  - Double tap Reload (`R`) to cycle through ammo types.
+  - Press `Y` to cycle through ammo types.
 
 - **Universal Water Bottling:**
   - Fill empty bottles at water sources by pressing Grab (`G`).
