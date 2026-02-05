@@ -23,20 +23,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/anonymoussynon/Nuclear-Sunset/main/static/img/nuclearsunsetbanner_webp.webp",
       "readme": "https://nuclearsunset.com/docs/main/intro",
-      "download": "https://authored-files.wabbajack.org/Nuclear%20Sunset.wabbajack_f793e990-6256-4dc6-8de7-f1ce6d871b68",
+      "download": "https://authored-files.wabbajack.org/Nuclear%20Sunset.wabbajack_5f672408-9b12-4dde-874a-ab8e2f3bc3ea",
       "machineURL": "NuclearSunset",
       "discordURL": "https://discord.gg/bddnKB26sT",
       "websiteURL": "https://nuclearsunset.com/"
     },
     "download_metadata": {
-      "Hash":"ge099HvUKzE=",
-      "Size":5746279846,
-      "NumberOfArchives":1537,
-      "SizeOfArchives":95724248977,
-      "NumberOfInstalledFiles":144734,
-      "SizeOfInstalledFiles":98530755462,
-      "TotalSize":194255004439
+      "Hash":"K+Cp7itxI+o=",
+      "Size":5609588468,
+      "NumberOfArchives":1533,
+      "SizeOfArchives":93655990801,
+      "NumberOfInstalledFiles":145664,
+      "SizeOfInstalledFiles":98723911658,
+      "TotalSize":192379902459
     },
-    "version": "1.0.1.0"
+    "version": "1.0.1.1"
   }
 ]
