@@ -27,10 +27,11 @@ Expand - Troubleshooting Steps
 - Disable Windows Defender.
 - If using a pre-built computer or laptop, close or uninstall any proprietary programs (for example, Omen Gaming Hub).
 - Right click the Nuclear Sunset folder and uncheck Read-only.
+- In MO2, Go to `Tools > Settings > Paths` and ensure the Managed Game path is to the exe in the Stock New Vegas folder. 
 - Restart your computer.
 - Launch Fallout: New Vegas once more from Steam/GOG, then try launching again through Mod Organizer 2.
 - Re-run the Nuclear Sunset Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
-- Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://nuclearsunset.com/docs/main/setup#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Nuclear Sunset > Mods` folder.
+- Ensure that the `Tale of Two Wastelands` filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://nuclearsunset.com/docs/main/setup#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Nuclear Sunset > Mods` folder.
 - Repeat the [Running 4GB Patcher](https://nuclearsunset.com/docs/main/setup#-running-4gb-patcher-) step.
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://nuclearsunset.com/docs/resources/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - Try disabling DXVK itself in the stock folder by renaming `d3d9.dll` to `d3d9.dll.backup`. DXVK doesn't always play nice with all graphics cards and drivers.
