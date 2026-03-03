@@ -123,7 +123,7 @@ sidebar_label: Mod Highlights
 - [Real Time Reflections](https://www.nexusmods.com/newvegas/mods/82343) - Adds dynamic reflection effects.
 - [Physically Based Texturing - A Modern Texture Pack](https://www.nexusmods.com/newvegas/mods/94227) - Modern large texture pack that uses PBR materials, made with NVR in mind.
 - [Special FX](https://www.nexusmods.com/newvegas/mods/87817) - Reimagines all game effects for explosions, lasers, blood, and more.
-- [Lumen](https://www.nexusmods.com/newvegas/mods/81060) - Adds ambient lighting to objects.
+- [Lumen](https://www.nexusmods.com/newvegas/mods/81060) and [Lumen Extended](https://www.nexusmods.com/newvegas/mods/94646) - Adds ambient lighting to objects.
 - [Energy Visuals Plus](https://www.nexusmods.com/newvegas/mods/80000) - Enhances lighting for explosions and energy impacts.
 - [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437) - Overhauls weather for realistic variation across climates.
-- [New Vegas Reloaded](https://dlpnd.github.io/nvr-wiki/) - Multiple presets including [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817), [Hikikomori](https://www.nexusmods.com/newvegas/mods/93406) and [Caffeine](https://www.nexusmods.com/newvegas/mods/92111)
+- [New Vegas Reloaded](https://dlpnd.github.io/nvr-wiki/) - Multiple presets including [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817) and [Hikikomori Standard and Legacy](https://www.nexusmods.com/newvegas/mods/93406)
