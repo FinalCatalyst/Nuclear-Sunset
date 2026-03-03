@@ -46,9 +46,5 @@ This page contains links to essential resources for modding Fallout: New Vegas.
   - A high-quality starter guide tailored for new Fallout: New Vegas players.
 - **[The Best of Times](https://thebestoftimes.moddinglinked.com)**
   - The official installation guide for Tale of Two Wastelands.
-- **[Wasteland Survival Guide](https://wastelandsurvival.guide)**
-  - A comprehensive starter guide designed for Tale of Two Wastelands players.
 - **[FNV Performance Guide](https://performance.moddinglinked.com/falloutnv.html)**
   - A guide for optimizing Fallout: New Vegas to achieve peak performance. Recommended for Tale of Two Wastelands players as well.
-- **[SALVO](https://salamand3r.fail/salvo)**
-  - A highly stable and detailed texture guide for enhancing New Vegas.
