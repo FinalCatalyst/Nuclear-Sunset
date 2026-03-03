@@ -21,3 +21,4 @@ sidebar_label: Credits & Thanks
 - [Stentorious](https://next.nexusmods.com/profile/Stentorious) for substantial troubleshooting efforts and creating custom patches for NS.
 - [InTheGrave](https://next.nexusmods.com/profile/Inthegrave) for advice on optimization, compression, and BSA packing for NS.
 - [Wall](https://next.nexusmods.com/profile/WallSoGB) for development tools and advice & general support.
+- Gassy for the Character Build Planner & Quest Tracker.
