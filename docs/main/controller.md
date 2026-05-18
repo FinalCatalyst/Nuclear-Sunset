@@ -14,4 +14,4 @@ Per the instructions below, copy/paste the folders from this file into your Nucl
 :::danger **REINSTALL AFTER EVERY UPDATE**
 :::
 
-<iframe src="https://drive.google.com/file/d/1tWoTZ8yH0r1Dr_Ns1w8rVMKplVQ21aKB/preview" width="974" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1rgMAY-hhYh89oyP3n9pyr6c2nxZO7VCo/preview" width="974" height="900"></iframe>
