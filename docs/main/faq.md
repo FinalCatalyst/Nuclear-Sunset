@@ -82,6 +82,9 @@ Expand - Troubleshooting Steps
 - **BASS Init/XD3 Input Errors - I got a BASS Init/XD3 Input Error while installing TTW. How do I fix it?**
   - You are either using non-English versions of Fallout: New Vegas or Fallout 3, lack the associated DLCs, or have not completed a [clean installation](https://nuclearsunset.com/docs/main/setup#-creating-clean-installs-and-backups-) appropriately.
  
+- **Black screen? - I have an infinite black screen**
+  - Check that your MO2 instance has the correct path to the executable. Click this [image](https://github.com/user-attachments/assets/1e998eb6-90a5-46ae-acae-3ddb4771c369) icon on the top bar, click `Paths`, and make sure `Managed Game` is set to the executable in your Stock New Vegas Folder.
+ 
 - **Bobbleheads/Skill Books - I used to know exactly where to find all of the bobbleheads/skill books, but they aren't where I expect them. Why?**
   - They have all been relocated. Gone are the days of free, predictable SPECIAL/Skill points. We enjoy the sense of discovery associated with their relocation, and hope you will too.
 
