@@ -29,7 +29,12 @@
       "machineURL": "NuclearSunset",
       "discordURL": "https://discord.gg/bddnKB26sT",
       "websiteURL": "https://nuclearsunset.com/",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "478847",
+        "slug": "qnlxwm",
+        "domainName": "newvegas",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "RSHuPxTmYZs=",
