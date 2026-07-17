@@ -26,7 +26,8 @@ https://github.com/Omni-guides/Jackify/releases !! Download the file under Asset
 TTW
 https://mod.pub/ttw/133-tale-of-two-wastelands
 
-### <p align="center"> Creating Necessary File Paths </p>
+### <img width="546" height="60" alt="creatingnecessaryfilepaths" src="https://github.com/user-attachments/assets/6db84a3d-8707-4a17-9c8f-0db14826481c" />
+
 - Open a terminal and run
 - mkdir ~/NuclearSunset ~/NuclearSunset/downloads
 - This will create a folder called NuclearSunset in your home folder and a nested downloads folder in it. If you're installing to a different mounted drive, create your folders there instead.
