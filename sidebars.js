@@ -25,6 +25,7 @@ const sidebars = {
     'main/requirements',
     'main/specs',
     'main/setup',
+    'main/linux',
     'main/controller',
     'main/updating',
     'main/reference',

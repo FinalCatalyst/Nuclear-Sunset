@@ -16,6 +16,21 @@ Before requesting support, check the [Frequently Asked Questions](https://nuclea
 <br></br>
 <br></br>
 
+### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/56a10969-00a9-41a6-a8ca-2b488423a1e7)</p>
+<details><summary>
+Expand - Linux Installation Instructions
+</summary>
+
+Linux inherently requires above average operating system knowledge and troubleshooting capability. For any linux related assisance, please use the [#linux-support](https://discord.com/channels/1445447774035251323/1505659799398776873) channel on our Discord server.
+
+Linux instructions were generously provided by queenglizzyandthelizzywizzy on Discord. Thank you, Liz!
+
+[Linux Instructions](https://nuclearsunset.com/docs/main/linux)
+</details>
+
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/7f0a2b00-9990-434d-b7e6-bc8ed273f78c) </p>
 - Navigate to the `Root Directory` (e.g., `C:\`, `D:\`).
 - Create a folder named `Modding` and open it.
@@ -280,23 +295,6 @@ Failure to run the 4GB Patch will result in a pink screen or crash when launchin
 
 <br></br>
 <br></br>
-
-<!-- ### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/56a10969-00a9-41a6-a8ca-2b488423a1e7)</p>
-<details><summary>
-Expand - Linux Installation Instructions
-</summary>
-
-Linux inherently requires above average operating system knowledge and troubleshooting capability. As such, support **WILL NOT** be provided for the Linux installation process.
-
-- **Requirements**:
-  - Pending revision, sorry!
-
-- **Instructions**:
-  - Pending revision, sorry!
-</details>
-
-<br></br>
-<br></br> -->
 
 ### <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/1231e641-2ddb-4a40-b814-7b3d470559fe) </p>
 :::tip Why?

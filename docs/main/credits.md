@@ -22,3 +22,4 @@ sidebar_label: Credits & Thanks
 - [InTheGrave](https://next.nexusmods.com/profile/Inthegrave) for advice on optimization, compression, and BSA packing for NS.
 - [Wall](https://next.nexusmods.com/profile/WallSoGB) for development tools and advice & general support.
 - Gassy for the Character Build Planner & Quest Tracker.
+- queenglizzyandthelizzywizzy for the Linux Instructions
