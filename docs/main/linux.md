@@ -21,7 +21,8 @@ FNV 4GB Patcher for Linux
 https://www.nexusmods.com/newvegas/mods/62552?tab=files
 
 Jackify (Linux version of Wabbajack)
-https://github.com/Omni-guides/Jackify/releases !! Download the file under Assets that says Jackify.AppImage and not Source code !!
+https://github.com/Omni-guides/Jackify/releases
+^**Download the file under Assets that says Jackify.AppImage and not Source code!**
 
 TTW
 https://mod.pub/ttw/133-tale-of-two-wastelands
