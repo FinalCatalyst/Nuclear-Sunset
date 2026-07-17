@@ -22,6 +22,7 @@ https://www.nexusmods.com/newvegas/mods/62552?tab=files
 
 Jackify (Linux version of Wabbajack)
 https://github.com/Omni-guides/Jackify/releases
+<br></br>
 ^**Download the file under Assets that says Jackify.AppImage and not Source code!**
 
 TTW
