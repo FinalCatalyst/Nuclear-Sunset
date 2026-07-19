@@ -7,7 +7,7 @@ sidebar_label: Credits & Thanks
 
 # ![Credits & Thanks](https://github.com/user-attachments/assets/f13aa22d-6293-42fd-bb82-501b1e4dc105)
 
-**Nuclear Sunset** is authored and supported by [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend), [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze), [DoktorAkcel](https://next.nexusmods.com/profile/DoktorAkcel), [Lime](https://next.nexusmods.com/profile/LimeMods), [FinalCatalyst](https://next.nexusmods.com/profile/FinalCatalyst) and [TheBooher](https://www.nexusmods.com/profile/TheBooher), but it would not be possible without the numerous contributions from:
+**Nuclear Sunset** is authored and supported by [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend), [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze), [DoktorAkcel](https://next.nexusmods.com/profile/DoktorAkcel), [Lime](https://next.nexusmods.com/profile/Lime), [FinalCatalyst](https://next.nexusmods.com/profile/FinalCatalyst) and [TheBooher](https://www.nexusmods.com/profile/TheBooher), but it would not be possible without the numerous contributions from:
 
 - **The entire Nuclear Sunset community!**
 - The Uranium Fever Community, as Nuclear Sunset is built from Uranium Fever.
