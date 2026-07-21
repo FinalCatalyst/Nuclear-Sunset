@@ -23,7 +23,7 @@ https://www.nexusmods.com/newvegas/mods/62552?tab=files
 Jackify (Linux version of Wabbajack)
 https://github.com/Omni-guides/Jackify/releases
 <br></br>
-^**Download the file under Assets that says Jackify.AppImage and not Source code!**
+^**Download the file under Assets that says `Jackify.AppImage` and not `Source code`!**
 
 TTW
 https://mod.pub/ttw/133-tale-of-two-wastelands
@@ -31,20 +31,20 @@ https://mod.pub/ttw/133-tale-of-two-wastelands
 ### <p align="center"> <img width="546" height="60" alt="creatingnecessaryfilepaths" src="https://github.com/user-attachments/assets/6db84a3d-8707-4a17-9c8f-0db14826481c" /> </p>
 
 - Open a terminal and run
-- mkdir ~/NuclearSunset ~/NuclearSunset/downloads
+- `mkdir ~/NuclearSunset ~/NuclearSunset/downloads`
 - This will create a folder called NuclearSunset in your home folder and a nested downloads folder in it. If you're installing to a different mounted drive, create your folders there instead.
-- Move Jackify.AppImage to ~/NuclearSunset.
+- Move `Jackify.AppImage` to `~/NuclearSunset`.
 <br></br>
 <br></br>
 
 ### <p align="center"> <img width="546" height="60" alt="creatingcleaninstallsandbackups" src="https://github.com/user-attachments/assets/3a620e09-ee91-4608-bfa2-595f7d414703" /> </p>
 
 - Navigate to your path where Fallout New Vegas is installed to and rename Fallout New Vegas to something different like FNVBackup.
-    - Native Steam: mv ~/.local/share/Steam/steamapps/common/Fallout\ New\ Vegas/ ~/.local/share/Steam/steamapps/common/FNVBackup
-    - Flatpak Steam: mv ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Fallout\ New\ Vegas/ ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/FNVBackup
+    - Native Steam: `mv ~/.local/share/Steam/steamapps/common/Fallout\ New\ Vegas/ ~/.local/share/Steam/steamapps/common/FNVBackup`
+    - Flatpak Steam: `mv ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Fallout\ New\ Vegas/ ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/FNVBackup`
 - Navigate to your compatdata folder, find 22380 and rename it to 22380-backup
-    - Native Steam: mv ~/.local/share/Steam/steamapps/compatdata/22380 ~/.local/share/Steam/steamapps/compatdata/22380-backup
-    - Flatpak Steam: mv ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380 ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380-backup
+    - Native Steam: `mv ~/.local/share/Steam/steamapps/compatdata/22380 ~/.local/share/Steam/steamapps/compatdata/22380-backup`
+    - Flatpak Steam: `mv ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380 ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380-backup`
 - Uninstall Fallout New Vegas and Fallout 3 from Steam.
 - Reinstall Fallout New Vegas and Fallout 3.
 <br></br>
@@ -78,25 +78,26 @@ This process will usually take at least half an hour to finish
 
 ### <p align="center"> <img width="546" height="60" alt="creatingacleanstocknewvegasfolder" src="https://github.com/user-attachments/assets/d986fd93-5533-4717-aaeb-fca2f9433f5c" /> </p>
 
-- Navigate to the newly reinstalled New Vegas folder and copy ALL files from the folder to ~/NuclearSunset/[NoDelete] \Stock \New \Vegas
-    - Native: cp ~/.local/share/Steam/steamapps/common/Fallout\ New\ Vegas/* ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/
-    - Flatpak: cp ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Fallout\ New\ Vegas/* ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/
+- Navigate to the newly reinstalled New Vegas folder and copy ALL files from the folder to `~/NuclearSunset/[NoDelete] \Stock \New \Vegas`
+    - Native: `cp ~/.local/share/Steam/steamapps/common/Fallout\ New\ Vegas/* ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/`
+    - Flatpak: `cp ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Fallout\ New\ Vegas/* ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/`
 :::danger Important
-- You need to remove d3d9.dll from [NoDelete] Stock New Vegas. This is not an optional step. This is from the DXVK mod and is not needed as Linux already uses DXVK natively. If you do not remove this, you will crash any time you leave an interior.
+- You need to remove `d3d9.dll` from `[NoDelete] Stock New Vegas`. This is not an optional step. This is from the DXVK mod and is not needed as Linux already uses DXVK natively for DirectX 9 games. If you do not remove this, you will crash any time you leave an interior.
  `rm ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/d3d9.dll ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/dxvk.conf`
  :::
 
 :::tip
 If you made a backup of Fallout New Vegas as mentioned before, you can place your old folder (FNVBackup) back into `/path/to/Steam/steamapps/common/`
   - Native Steam:
+  
     `cp -fR ~/.local/share/Steam/steamapps/common/FNVBackup/* ~/.local/share/Steam/steamapps/common/Fallout\ New\ Vegas/`
-    `cd ~/.local/share/Steam/steamapps/compatdata`
-    `rm -rf ~/.local/share/Steam/steamapps/compatdata/22380 && mv ~/.local/share/Steam/steamapps/compatdata/22380-backup/* ~/.local/share/Steam/steamapps/compatdata/22380`
+    
+    `rm -rf ~/.local/share/Steam/steamapps/compatdata/22380 && mv ~/.local/share/Steam/steamapps/compatdata/22380-backup/ ~/.local/share/Steam/steamapps/compatdata/22380`
   - Flatpak Steam:
-    `cd ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common`
+  
     `cp -fR ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/NVBackup/* ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Fallout\ New\ Vegas/`
-    `cd ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata`
-    `rm -rf ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380 && mv ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380-backup/* ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380`
+    
+    `rm -rf ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380 && mv ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380-backup/ ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380`
 :::
 <br></br>
 <br></br>
@@ -104,8 +105,11 @@ If you made a backup of Fallout New Vegas as mentioned before, you can place you
 ### <p align="center"> <img width="546" height="60" alt="launching mod organizer 2 (mo2)" src="https://github.com/user-attachments/assets/971f42eb-20ec-4de7-84ba-aeba449e681e" /> </p>
 
 - Open Steam, find Nuclear Sunset in your games list, and launch it.
-- Jackify should have created this entry for you. If not, add it through Add a Game in the bottom left, Add a Non-Steam Game, then select Browse in the bottom left of the new window. Navigate to your Nuclear Sunset folder, and select ModOrganizer.exe then select Add Selected Progams.
+- Jackify should have created this entry for you. If not, add it through the Add a Game button in the bottom left, select Add a Non-Steam Game, then select Browse in the bottom left of the new window. Navigate to your Nuclear Sunset folder, and select `ModOrganizer.exe` then select Add Selected Progams.
 - Right click on the entry in your games list and select Properties, then go to the Compatibilty tab. Select Force the use of a specific Steam Play compatibilty tool and then select Proton 11.
+:::danger Important
+Do not use custom versions of Proton like ProtonGE or Proton-CachyOS. Nuclear Sunset **will not** launch with these versions of Proton.
+:::
 <br></br>
 <br></br>
 
@@ -124,17 +128,29 @@ If you made a backup of Fallout New Vegas as mentioned before, you can place you
 - Download the Tale of Two Wastelands file from modpub if you haven't already and extract the archive.
 - In Jackify, go to the Tools Hub and find the TTW Linux Installer. Install it if it isn't already installed, then launch it.
 - In TTW .mpi File location, select Browse and navigate to where you extracted the archive, and select the .mpi file.
-- In Output Directory, select Browse and navigate to NuclearSunset/mods/ and select [NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW) as the folder.
+- In Output Directory, select Browse and navigate to `NuclearSunset/mods/` and select `[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)` as the folder.
 - Start the installation, and wait.
 <br></br>
 <br></br>
 
 ### <p align="center"> <img width="546" height="60" alt="running 4gb patcher" src="https://github.com/user-attachments/assets/fdcbb225-2f8f-4f3c-bf5c-25aef5371d86" /> </p>
 
-- Download and extract the FNV 4GB for Linux archive if you haven't already to ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas. 
+- Download and extract the FNV 4GB for Linux archive if you haven't already to `~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas`. 
 - Right click on FalloutNVPatcher, go to Properties, and open the Permissions tab. 
 - Under Execute:, tick the box that says Allow executing file as program, then hit OK. 
 - Run FalloutNVPatcher.
     Terminal commands
     `cd ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/`
     `chmod +x FalloutNVPatcher && ./FalloutNVPatcher`
+<br></br>
+<br></br>
+  
+### <p align="center"> <img width="546" height="60" alt="Installing NVR Pre-requisites" src="https://github.com/user-attachments/assets/fdcbb225-2f8f-4f3c-bf5c-25aef5371d86" /> </p>
+
+- If you don't already have it installed, install protontricks through your distro's package manager if using the native version of Steam, or through flatpak if using the flatpak version.
+- Open a terminal and run `protontricks --gui`
+- Find Nuclear Sunset in the games list and select it. Any errors about using a 64-bit wineprefix and using Wine's wow64 mode can be ignored. 
+- Select `Select the default wineprefix` and press OK.
+- Select `Install a Windows DLL or component`
+- Scroll down and select `d3dcompiler_43` and `d3dcompiler_47`, then press OK.
+- Close protontricks.
