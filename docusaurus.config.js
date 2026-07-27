@@ -92,6 +92,12 @@ const config = {
             position: "right",
             label: "FAQ",
           },
+		  {
+			  type: "docSidebar",
+			  sidebarId: "gallerySidebar",
+			  position: "right",
+			  label: "Gallery"
+		  },
           {
             type: "docSidebar",
             sidebarId: "changelogSidebar",
