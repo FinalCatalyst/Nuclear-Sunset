@@ -223,8 +223,8 @@ Expand - Troubleshooting Steps
 - **Items - What does ___ item do?**
   - **Air Scrubber** - Used to repair gas masks and other items that provide radiation resistance.
   - **Bypass Module** - Uses a combination of modules and microfusion cells to bypass terminal hacking. The amount of material required depends on the hacking difficulty.
-  - **Grinder** - Uses a combination of discs and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
-  - **Power Drill** - Uses a combination of drill bits and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
+  - **Grinder** - Uses a combination of discs and small energy cells to bypass door locks. The amount of material required depends on the lock difficulty.
+  - **Power Drill** - Uses a combination of drill bits and small energy cells to bypass container locks. The amount of material required depends on the lock difficulty.
   - **Skill Items** - Add specified skill bonuses while held in the players inventory.
   - **Welding Torch** - Used to augment armor and weapon repair, alongside flamer fuel, and silver or gold coins.
  
