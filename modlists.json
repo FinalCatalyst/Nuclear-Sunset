@@ -25,7 +25,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/anonymoussynon/Nuclear-Sunset/main/static/img/nuclearsunsetbanner_webp.webp",
       "readme": "https://nuclearsunset.com/docs/main/intro",
-      "download": "https://authored-files.wabbajack.org/Nuclear Sunset.wabbajack_8e72e924-8ea4-405c-a300-19a8ab0e3d43",
+      "download": "https://authored-files.wabbajack.org/Nuclear Sunset.wabbajack_d5cf37c5-8597-461f-90ef-fc5b32b2ec0b",
       "machineURL": "NuclearSunset",
       "discordURL": "https://discord.gg/bddnKB26sT",
       "websiteURL": "https://nuclearsunset.com/",
@@ -37,17 +37,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "LQI1cbDFQpU=",
-      "Size": 5861017657,
+      "Hash": "thEKTU3a87U=",
+      "Size": 5861018936,
       "NumberOfArchives": 1492,
       "SizeOfArchives": 85161343583,
       "NumberOfInstalledFiles": 147125,
-      "SizeOfInstalledFiles": 99597407427,
-      "TotalSize": 184758751010
+      "SizeOfInstalledFiles": 99597407436,
+      "TotalSize": 184758751019
     },
     "version": "1.0.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-29T02:44:41.6687832Z",
+    "dateUpdated": "2026-07-30T13:26:35.9127179Z",
     "repositoryName": ""
   }
 ]
