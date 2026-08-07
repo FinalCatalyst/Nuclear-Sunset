@@ -145,7 +145,7 @@ Do not use custom versions of Proton like ProtonGE or Proton-CachyOS. Nuclear Su
 <br></br>
 <br></br>
   
-### <p align="center"> <img width="546" height="60" alt="Installing NVR Pre-requisites" src="https://github.com/user-attachments/assets/fdcbb225-2f8f-4f3c-bf5c-25aef5371d86" /> </p>
+### <p align="center"> <img width="546" height="60" alt="Installing NVR Pre-requisites" src="https://github.com/user-attachments/assets/07258ed9-6e27-41e3-8d0d-54e6a425f446" /> </p>
 
 - If you don't already have it installed, install protontricks through your distro's package manager if using the native version of Steam, or through flatpak if using the flatpak version.
 - Open a terminal and run `protontricks --gui`
