@@ -25,7 +25,7 @@ https://github.com/Omni-guides/Jackify/releases
 <br></br>
 ^**Download the file under Assets that says `Jackify.AppImage` and not `Source code`!**
 
-TTW
+Tale of Two Wastelands & YUPTTW Update
 https://mod.pub/ttw/133-tale-of-two-wastelands
 
 ### <p align="center"> <img width="546" height="60" alt="creatingnecessaryfilepaths" src="https://github.com/user-attachments/assets/6db84a3d-8707-4a17-9c8f-0db14826481c" /> </p>
@@ -62,7 +62,7 @@ https://mod.pub/ttw/133-tale-of-two-wastelands
 ### <p align="center"> <img width="546" height="60" alt="installingnuclearsunset" src="https://github.com/user-attachments/assets/b06987f9-401b-4a31-98ab-5546cceb67f8" /> </p>
 
 - Open a terminal and run the following command.
-`chmod +x ~/NuclearSunset/Jackify.AppImage & ./Jackify.AppImage`
+`chmod +x ~/NuclearSunset/Jackify.AppImage && ./Jackify.AppImage`
 
 - Open the settings page and log into your Nexus account.
 - Close the settings page and click Modlist Tasks, and select Install a Modlist (Automated)
@@ -79,8 +79,8 @@ This process will usually take at least half an hour to finish
 ### <p align="center"> <img width="546" height="60" alt="creatingacleanstocknewvegasfolder" src="https://github.com/user-attachments/assets/d986fd93-5533-4717-aaeb-fca2f9433f5c" /> </p>
 
 - Navigate to the newly reinstalled New Vegas folder and copy ALL files from the folder to `~/NuclearSunset/[NoDelete] \Stock \New \Vegas`
-    - Native: `cp ~/.local/share/Steam/steamapps/common/Fallout\ New\ Vegas/* ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/`
-    - Flatpak: `cp ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Fallout\ New\ Vegas/* ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/`
+    - Native: `cp -r ~/.local/share/Steam/steamapps/common/Fallout\ New\ Vegas/* ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/`
+    - Flatpak: `cp -r ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Fallout\ New\ Vegas/* ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/`
 :::danger Important
 - You need to remove `d3d9.dll` from `[NoDelete] Stock New Vegas`. This is not an optional step. This is from the DXVK mod and is not needed as Linux already uses DXVK natively for DirectX 9 games. If you do not remove this, you will crash any time you leave an interior.
  `rm ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/d3d9.dll ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/dxvk.conf`
@@ -90,12 +90,12 @@ This process will usually take at least half an hour to finish
 If you made a backup of Fallout New Vegas as mentioned before, you can place your old folder (FNVBackup) back into `/path/to/Steam/steamapps/common/`
   - Native Steam:
   
-    `cp -fR ~/.local/share/Steam/steamapps/common/FNVBackup/* ~/.local/share/Steam/steamapps/common/Fallout\ New\ Vegas/`
+    `cp -fr ~/.local/share/Steam/steamapps/common/FNVBackup/* ~/.local/share/Steam/steamapps/common/Fallout\ New\ Vegas/`
     
     `rm -rf ~/.local/share/Steam/steamapps/compatdata/22380 && mv ~/.local/share/Steam/steamapps/compatdata/22380-backup/ ~/.local/share/Steam/steamapps/compatdata/22380`
   - Flatpak Steam:
   
-    `cp -fR ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/NVBackup/* ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Fallout\ New\ Vegas/`
+    `cp -fr ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/NVBackup/* ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Fallout\ New\ Vegas/`
     
     `rm -rf ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380 && mv ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380-backup/ ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/22380`
 :::
@@ -105,10 +105,10 @@ If you made a backup of Fallout New Vegas as mentioned before, you can place you
 ### <p align="center"> <img width="546" height="60" alt="launching mod organizer 2 (mo2)" src="https://github.com/user-attachments/assets/971f42eb-20ec-4de7-84ba-aeba449e681e" /> </p>
 
 - Open Steam, find Nuclear Sunset in your games list, and launch it.
-- Jackify should have created this entry for you. If not, add it through the Add a Game button in the bottom left, select Add a Non-Steam Game, then select Browse in the bottom left of the new window. Navigate to your Nuclear Sunset folder, and select `ModOrganizer.exe` then select Add Selected Progams.
-- Right click on the entry in your games list and select Properties, then go to the Compatibilty tab. Select Force the use of a specific Steam Play compatibilty tool and then select Proton 11.
+- Jackify should have created this entry for you. If not, add it through the Add a Game button in the bottom left, select Add a Non-Steam Game, then select Browse in the bottom left of the new window. Navigate to your Nuclear Sunset folder, and select `ModOrganizer.exe` then select Add Selected Programs.
+- Right click on the entry in your games list and select Properties, then go to the Compatibility tab. Select Force the use of a specific Steam Play compatibility tool and then select Proton 11.
 :::danger Important
-Do not use custom versions of Proton like ProtonGE or Proton-CachyOS. Nuclear Sunset **will not** launch with these versions of Proton.
+Do not use custom versions of Proton like ProtonGE or Proton-CachyOS. Nuclear Sunset **will not** launch with these versions of Proton. Proton 11 is the current recommended version of Proton to use. If you wish to use the latest version of DXVK then use Proton Experimental, however be aware that using Proton Experimental is more likely to cause issues.
 :::
 <br></br>
 <br></br>
@@ -122,14 +122,15 @@ Do not use custom versions of Proton like ProtonGE or Proton-CachyOS. Nuclear Su
 <br></br>
 <br></br>
 
-### <p align="center"> <img width="546" height="60" alt="installing tale of two wasteland (TTW)" src="https://github.com/user-attachments/assets/a57f42cf-4879-4689-8fe0-468bee211c33" /> </p>
+### <p align="center"> <img width="546" height="60" alt="installing tale of two wasteland ()" src="https://github.com/user-attachments/assets/a57f42cf-4879-4689-8fe0-468bee211c33" /> </p>
 
 - Jackify has an in-built installer for Tale of Two Wastelands. Do not use the installer included with the download from modpub. Its dated and does not run nicely in Wine or Proton, and will take significantly longer than Jackify will. Jackify will also auto-detect file paths for Fallout 3 and Fallout: New Vegas for you and verify they are installed.
-- Download the Tale of Two Wastelands file from modpub if you haven't already and extract the archive.
-- In Jackify, go to the Tools Hub and find the TTW Linux Installer. Install it if it isn't already installed, then launch it.
+- Download the Tale of Two Wastelands file and YUPTTW file from modpub if you haven't already and extract the Tale of Two Wastelands archive.
+- In Jackify, go to the Tools Hub and find the Linux Installer. Install it if it isn't already installed, then launch it.
 - In TTW .mpi File location, select Browse and navigate to where you extracted the archive, and select the .mpi file.
 - In Output Directory, select Browse and navigate to `NuclearSunset/mods/` and select `[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)` as the folder.
 - Start the installation, and wait.
+- Once done, open the YUPTTW archive and extract it to `~/NuclearSunset/mods/[NoDelete] [INF] [DB] - YUPTTW Update`.
 <br></br>
 <br></br>
 
@@ -137,7 +138,7 @@ Do not use custom versions of Proton like ProtonGE or Proton-CachyOS. Nuclear Su
 
 - Download and extract the FNV 4GB for Linux archive if you haven't already to `~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas`. 
 - Right click on FalloutNVPatcher, go to Properties, and open the Permissions tab. 
-- Under Execute:, tick the box that says Allow executing file as program, then hit OK. 
+- Under Execute, tick the box that says Allow executing file as program, then hit OK. 
 - Run FalloutNVPatcher.
     Terminal commands
     `cd ~/NuclearSunset/[NoDelete]\ Stock\ New\ Vegas/`
