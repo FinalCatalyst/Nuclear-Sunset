@@ -66,6 +66,7 @@ const sidebars = {
     'gallery/pittinteriors',
   ],
   changelogSidebar: [
+   'changelog/1.0.2.2',
    'changelog/1.0.2.1',
    'changelog/1.0.2.0',
    'changelog/1.0.1.2',
