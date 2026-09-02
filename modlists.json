@@ -25,7 +25,8 @@
     "links": {
       "image": "https://raw.githubusercontent.com/anonymoussynon/Nuclear-Sunset/main/static/img/nuclearsunsetbanner_webp.webp",
       "readme": "https://nuclearsunset.com/docs/main/intro",
-      "download": "https://authored-files.wabbajack.org/Nuclear Sunset.wabbajack_d5cf37c5-8597-461f-90ef-fc5b32b2ec0b"      "machineURL": "NuclearSunset",
+      "download": "https://authored-files.wabbajack.org/Nuclear Sunset.wabbajack_d5cf37c5-8597-461f-90ef-fc5b32b2ec0b",
+      "machineURL": "NuclearSunset",
       "discordURL": "https://discord.gg/bddnKB26sT",
       "websiteURL": "https://nuclearsunset.com/",
       "nexusCollection": {
